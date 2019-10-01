@@ -122,12 +122,7 @@ def set_df20_hd():
 # conditional hot deck imputation
 def set_df05_chd():
     print("Finding df05_chd")
-    global df05_yes
-    global df05_no
-    dfy = hot_deck(df05_yes)
-    dfn = hot_deck(df05_no)
-    df = dfy.append(dfn)
-    df = reset_order(df)
+    df = reset_order(hot_deck(df05_yes).append(hot_deck(df05_no)))
     df.round(decimals=5).to_csv('V00819990_missing05_imputed_hd_conditional.csv', index=False)
 
 
