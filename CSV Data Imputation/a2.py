@@ -46,7 +46,7 @@ df20.reset_index(inplace=True)
 
 # sort the rows of a df back into the original order, then drop the 'index' column
 def reset_order(df):
-    return df.sort_values('index').filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
+    return df.sort_values('index').filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
 
 
 # split each df into a separate df for each condition - this could probably be optimized
@@ -69,13 +69,16 @@ def distance(row1, row2, mask):
     r1 = row1.loc[mask]  # .to_list()
     r2 = row2.loc[mask]  # .to_list()
     # compute and return the euclidean distance between the rows
-    return sqrt(sum([(x - y) ** 2 for x, y in zip(r1, r2)])) / row1.size
+    if r1.size > 0:
+        return sqrt(sum([(x - y) ** 2 for x, y in zip(r1, r2)])) / r1.size
+    else:
+        return 1
 
 
 def hot_deck(df):
     df_hd = df.copy()
     df = df.filter(like='F', axis=1)
-    df_temp = df.assign(Distance=1)
+    df_temp = df.assign(Distance=1.0)
     for i in df.iterrows():
         # make sure this row has missing values in the first place before trying to impute them
         if i[1].hasnans:
@@ -93,58 +96,54 @@ def hot_deck(df):
             # pick the available values from the closest row until i is filled
             for k in df_temp.iterrows():
                 # if the ith row of the df still has missing values...
-                if df_hd.iloc[i[0]].hasnans:
+                if df_hd.loc[i[0]].hasnans:
                     # ...keep trying to impute them
-                    df_hd.iloc[i[0]] = df_hd.iloc[i[0]].combine_first(k[1])
+                    temp = df_hd.loc[i[0]].combine_first(k[1])
+                    df_hd.loc[i[0]] = temp
                 else:
                     break
-        # if i[0] % 100 == 0:
+        # if i[0] % 500 == 0:
             # print("i[0]: " + str(i[0]))
     return df_hd
 
 
-# define dataframes globally so that I can use them locally without issue
-df05_hd = df05
-df20_hd = df20
-
-
 def set_df05_hd():
     # print("Finding df05_hd")
-    global df05_hd
-    df05_hd = hot_deck(df05)
+    df = hot_deck(df05)
+    df.round(decimals=5).to_csv('V00819990_missing05_imputed_hd.csv', index=False)
 
 
 def set_df20_hd():
     # print("Finding df20_hd")
-    global df20_hd
-    df20_hd = hot_deck(df20)
+    df = hot_deck(df20)
+    df.round(decimals=5).to_csv('V00819990_missing20_imputed_hd.csv', index=False)
 
 
 # conditional hot deck imputation
-# define dataframes globally so that I can use them locally without issue
-df05_chd = df05
-df20_chd = df20
-
-
 def set_df05_chd():
-    # print("Finding df05_chd")
-    global df05_chd
-    df05_chd = reset_order(hot_deck(df05_yes).append(hot_deck(df05_no)))
+    print("Finding df05_chd")
+    global df05_yes
+    global df05_no
+    dfy = hot_deck(df05_yes)
+    dfn = hot_deck(df05_no)
+    df = dfy.append(dfn)
+    df = reset_order(df)
+    df.round(decimals=5).to_csv('V00819990_missing05_imputed_hd_conditional.csv', index=False)
 
 
 def set_df20_chd():
-    # print("Finding df20_chd")
-    global df20_chd
-    df20_chd = reset_order(hot_deck(df20_yes).append(hot_deck(df20_no)))
+    print("Finding df20_chd")
+    df = reset_order(hot_deck(df20_yes).append(hot_deck(df20_no)))
+    df.round(decimals=5).to_csv('V00819990_missing20_imputed_hd_conditional.csv', index=False)
 
 
 # impute asynchronously
 if __name__ == '__main__':
-    pool = Pool(processes=4)
+    pool = Pool(processes=2)
 
+    # Start each process
     pr05hd = pool.apply_async(set_df05_hd)
     pr20hd = pool.apply_async(set_df20_hd)
-
     pr05chd = pool.apply_async(set_df05_chd)
     pr20chd = pool.apply_async(set_df20_chd)
 
@@ -152,6 +151,7 @@ if __name__ == '__main__':
     pool.join()
 
     # calculation of mean absolute error
+    # if not for this assignment's constraint that the code must be in a .py file, mean_ae would be Cython
     def mean_ae(df_missing, df_imputed, df_correct):
         ae = 0
         count = 0
@@ -165,15 +165,21 @@ if __name__ == '__main__':
                 # Divide the sum of errors by the number of errors, and round to the nearest ten-thousandth
         return round(ae/count, 4)
 
+    # Load the hot-deck-imputed data back into Dataframes
+    df05_hd = pd.read_csv('V00819990_missing05_imputed_hd.csv')
+    df20_hd = pd.read_csv('V00819990_missing20_imputed_hd.csv')
+    df05_chd = pd.read_csv('V00819990_missing05_imputed_hd_conditional.csv')
+    df20_chd = pd.read_csv('V00819990_missing20_imputed_hd_conditional.csv')
+
     # make sure the dfs only include the columns they started with
-    df05_mean = df05_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
-    df05_c_mean = df05_c_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
-    df05_hd = df05_hd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
-    df05_chd = df05_chd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
-    df20_mean = df20_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
-    df20_c_mean = df20_c_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
-    df20_hd = df20_hd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
-    df20_chd = df20_chd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6' 'F7', 'F8', 'Class'])
+    df05_mean = df05_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
+    df05_c_mean = df05_c_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
+    df05_hd = df05_hd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
+    df05_chd = df05_chd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
+    df20_mean = df20_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
+    df20_c_mean = df20_c_mean.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
+    df20_hd = df20_hd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
+    df20_chd = df20_chd.filter(items=['F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'Class'])
 
     # output each imputed df to csv (but first print mea and make sure that they have the right number of digits)
     print(f"MAE_05_mean = " + str(mean_ae(df05, df05_mean, df_complete)))
@@ -183,10 +189,8 @@ if __name__ == '__main__':
     df05_c_mean.round(decimals=5).to_csv('V00819990_missing05_imputed_mean_conditional.csv', index=False)
 
     print("MAE_05_hd = " + str(mean_ae(df05, df05_hd, df_complete)))
-    df05_hd.round(decimals=5).to_csv('V00819990_missing05_imputed_hd.csv', index=False)
 
     print("MAE_05_hd_conditional = " + str(mean_ae(df05, df05_chd, df_complete)))
-    df05_chd.round(decimals=5).to_csv('V00819990_missing05_imputed_hd_conditional.csv', index=False)
 
     print("MAE_20_mean = " + str(mean_ae(df20, df20_mean, df_complete)))
     df20_mean.round(decimals=5).to_csv('V00819990_missing20_imputed_mean.csv', index=False)
@@ -195,7 +199,5 @@ if __name__ == '__main__':
     df20_c_mean.round(decimals=5).to_csv('V00819990_missing20_imputed_mean_conditional.csv', index=False)
 
     print("MAE_20_hd = " + str(mean_ae(df20, df20_hd, df_complete)))
-    df20_hd.round(decimals=5).to_csv('V00819990_missing20_imputed_hd.csv', index=False)
 
     print("MAE_20_hd_conditional = " + str(mean_ae(df20, df20_chd, df_complete)))
-    df20_chd.round(decimals=5).to_csv('V00819990_missing20_imputed_hd_conditional.csv', index=False)
