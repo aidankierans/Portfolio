@@ -1,7 +1,7 @@
 # Portfolio
 A selection of my classwork and extracurricular projects.
 
-# Project Descriptions
+## Project Descriptions
 ### Sentiment Analysis
 Written in Python in March, 2020 for my Intro to Natural Language Processing course at Virginia Commonwealth University. This program automatically analyzes the sentiment of tweets, e.g. to classify them as either "positive" or "negative" in tone. Using a Naive Bayes model trained on a set of tagged tweets, this program determines which sentiment is the most probable given the relative frequency of each sentiment in general, and the tokens (i.e. words and some punctuation) that appear in the tweet.
 
