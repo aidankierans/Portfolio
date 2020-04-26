@@ -4,7 +4,7 @@ Aidan Kierans
 CMSC 416: Intro to NLP
 Prof. Bridget Thomas-McInnes
 
-The goal is to simulate a teletype-based conversation with a Rogerian-style psychotherapist named Eliza, based on the
+This program simulates a teletype-based conversation with a Rogerian-style psychotherapist named Eliza, based on the
 1966 program written by Joseph Weizenbaum towards the same end. The Rogerian style of psychotherapy mostly involves
 turning the client's statements into probing questions, so they can talk themselves to a solution. This can be
 accomplished by a computer program that simply modifies sentences according to predefined patterns, without any idea
