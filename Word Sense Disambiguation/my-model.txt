@@ -1,0 +1,2707 @@
+Sense frequency
+phone	178
+product	196
+
+w_minus_1 frequency for each sense:
+phone	access	15
+product	the	7
+product	struggling	1
+phone	new	1
+product	computer	6
+product	previous	1
+product	three	1
+product	skin-care	2
+product	Atlas	1
+phone	the	45
+product	furniture	1
+phone	gab	4
+phone	tip	2
+phone	telephone	32
+product	microprocessor	2
+product	non-food	1
+product	rail-intermodal	1
+phone	dedicated	1
+product	car	9
+product	complete	1
+product	luxury-car	1
+phone	outside	2
+product	Smith	1
+phone	telephone-	2
+product	food	2
+product	their	1
+phone	as	1
+product	's	1
+product	similar	2
+product	R	1
+product	a	19
+phone	bisexual	1
+phone	complaint	1
+product	truck	1
+product	IBM	3
+product	integrated	1
+product	new	9
+product	popular	1
+product	diagnostics	1
+phone	toll-free	1
+product	several	1
+phone	trading	3
+product	company's	2
+phone	whose	2
+phone	radio	1
+product	such	1
+phone	unsecured	1
+phone	private	2
+product	older	2
+product	Carleton	1
+product	other	1
+phone	subscriber	2
+product	fragrance	1
+product	PC	1
+phone	The	7
+phone	dead	1
+product	aerospace	1
+product	in	1
+product	GM-	1
+product	apparel	1
+product	those	1
+product	billion	1
+product	cereal	1
+product	perfume	1
+product	Jeep	1
+product	-model	1
+product	A	2
+product	torpedo	1
+product	lastest	1
+product	marketing	2
+product	broader	1
+product	latest	1
+phone	other	1
+phone	customer	2
+product	diaper	1
+product	product	4
+product	These	1
+product	Prix	1
+product	PS/	6
+product	his	2
+product	full	2
+phone	your	1
+product	Cougar	1
+product	cracker	1
+phone	gab-	1
+product	dreamboat	1
+phone	a	1
+product	Kids	1
+product	equipment	1
+product	tire	1
+phone	this	1
+product	$	1
+phone	open	1
+product	menswear	1
+product	products	2
+product	jewelry	1
+product	shoe	1
+phone	million	1
+product	camera	1
+phone	that	1
+product	women's	1
+phone	romance	1
+phone	than	2
+product	Sun's	1
+phone	all	1
+phone	party	2
+product	software	1
+product	Macintosh	1
+phone	crossed	1
+product	Amiga	1
+product	Spectrum	1
+phone	direct	4
+product	GM's	1
+phone	using	1
+phone	party-	1
+product	old	2
+phone	important	1
+product	Ziari	1
+phone	and	1
+phone	only	1
+phone	information	2
+product	specialized	1
+product	its	3
+product	Lexus	1
+product	current	2
+product	drink	1
+product	at	1
+product	office-equipment	1
+product	Corsica	1
+product	credit	1
+product	building-materials	1
+phone	with	1
+product	specialty-food	1
+product	Transformers	1
+phone	exchange	1
+phone	his	1
+product	Clarion	1
+product	machinery	1
+product	some	2
+product	Denton	1
+phone	Hospital	1
+product	military	1
+product	George	1
+product	long-awaited	1
+product	chemicals	1
+product	nail-polish	1
+product	exclusive	1
+phone	about	3
+phone	clogged	1
+product	Lanterns	1
+product	acquired	1
+product	The	1
+product	PW	1
+phone	private-	1
+product	consumer-products	1
+product	sewing	1
+product	health-club	1
+phone	extending	1
+phone	Business	1
+phone	asynchronous	1
+product	Coleco's	1
+product	bit	1
+product	Zytel	1
+phone	another	1
+phone	X-rated	1
+product	advertised	1
+phone	one-on-one	1
+product	filter	1
+product	VAX	2
+phone	emergency	1
+product	priced	1
+product	huge	1
+product	Marx	1
+phone	subscriber-	1
+product	optometric	1
+product	ground-coffee	1
+phone	sex	1
+product	{product}	1
+product	Fox	1
+phone	chat	1
+phone	ordinary	1
+phone	communications	1
+product	X	1
+product	future	1
+phone	no	1
+product	Lancome	1
+
+w_plus_1 frequency for each sense:
+phone	growth	3
+product	as	2
+product	was	1
+phone	to	13
+product	and	10
+product	at	2
+product	is	6
+product	could	2
+phone	have	1
+phone	that	5
+phone	busy	1
+phone	increased	3
+product	which	3
+product	"	4
+product	of	56
+phone	making	2
+phone	and	15
+product	may	1
+phone	was	12
+product	in	4
+phone	but	2
+phone	increase	1
+phone	used	1
+product	made	1
+phone	recently	2
+phone	of	1
+product	through	3
+product	showed	1
+phone	for	2
+product	such	1
+phone	yesterday	1
+phone	first	1
+product	by	2
+phone	into	1
+product	to	6
+product	into	2
+phone	the	2
+product	will	2
+phone	while	2
+phone	let's	1
+phone	light	1
+phone	charges	2
+product	from	3
+product	wouldn't	1
+phone	over	1
+phone	were	5
+product	ranging	1
+product	were	2
+product	with	2
+phone	"	3
+product	"Elizabeth	1
+phone	will	1
+phone	called	1
+product	this	1
+phone	grew	3
+product	but	2
+product	products"	1
+product	particularly	1
+product	under	1
+phone	just	1
+product	are	3
+phone	at	3
+phone	no	1
+product	that	2
+phone	once	1
+phone	dialed	1
+phone	in	8
+phone	proprietors	1
+phone	went	3
+phone	open	2
+phone	from	1
+product	had	1
+phone	between	1
+phone	or	1
+phone	if	1
+phone	--	3
+product	where	1
+product	built	1
+phone	mainly	2
+product	pacing	1
+product	rose	1
+phone	with	1
+product	has	2
+phone	they	2
+product	moved	1
+phone	a	3
+product	called	1
+phone	because	1
+phone	effect	1
+product	he	1
+phone	adapters	1
+phone	last	1
+phone	says	1
+phone	which	1
+product	said	1
+phone	is	2
+product	machines	1
+product	--	1
+product	the	1
+phone	so	1
+product	last	2
+product	;	1
+phone	be	1
+product	have	2
+product	fell	1
+phone	sir	1
+phone	like	2
+product	it	1
+phone	according	1
+phone	during	1
+product	making	1
+product	planned	1
+phone	appealing	1
+product	there	1
+product	won't	1
+product	they	1
+product	Bally	1
+product	for	2
+product	Cray's	1
+phone	played	1
+product	included	1
+product	because	1
+product	so	1
+phone	charge	1
+phone	jumped	1
+phone	are	1
+product	Hormel	1
+phone	noise	1
+product	anymore	1
+
+pair_m2_m1 frequency for each sense:
+phone	('%', 'access')	1
+product	('establish', 'the')	1
+product	('the', 'struggling')	1
+phone	('about', 'new')	1
+product	('mid-range', 'computer')	1
+product	('the', 'previous')	1
+product	('the', 'three')	1
+product	('Prairie', 'skin-care')	1
+product	('certain', 'Atlas')	1
+phone	('on', 'the')	21
+product	('The', 'furniture')	1
+phone	('the', 'gab')	1
+phone	('telephone', 'tip')	1
+phone	('thousand', 'access')	2
+phone	('keep', 'the')	1
+phone	('residential', 'telephone')	1
+product	('the', 'microprocessor')	1
+phone	('long-distance', 'telephone')	1
+product	('its', 'non-food')	1
+product	('The', 'rail-intermodal')	1
+phone	('or', 'dedicated')	1
+product	('between', 'car')	1
+product	('more', 'complete')	1
+phone	('private', 'telephone')	3
+product	('new', 'luxury-car')	1
+phone	('switched', 'the')	1
+phone	('an', 'outside')	2
+product	('Jaclyn', 'Smith')	1
+phone	('telephone', 'access')	3
+phone	('up', 'the')	1
+phone	('largest', 'telephone-')	1
+product	('frozen', 'food')	1
+phone	('over', 'the')	2
+product	('expand', 'their')	1
+phone	('many', 'as')	1
+product	('Corp', "'s")	1
+product	('a', 'similar')	2
+product	('and', 'R')	1
+product	('launch', 'a')	2
+phone	('of', 'the')	10
+phone	("Megaquest's", 'bisexual')	1
+phone	('York', 'telephone')	1
+phone	('toll-free', 'complaint')	1
+product	('and', 'truck')	1
+product	('new', 'IBM')	3
+product	('its', 'integrated')	1
+product	('the', 'new')	1
+product	('a', 'popular')	1
+phone	('necessary', 'telephone')	1
+product	("company's", 'diagnostics')	1
+phone	('a', 'toll-free')	1
+product	('of', 'several')	1
+phone	('their', 'trading')	1
+product	('apparel', "company's")	1
+product	('highest-volume', 'car')	1
+phone	('off', 'the')	2
+phone	('phone', 'whose')	1
+product	('create', 'a')	1
+product	('popular', 'car')	1
+phone	('and', 'telephone')	1
+phone	('open', 'radio')	1
+product	('acquired', 'food')	1
+product	('building', 'the')	1
+phone	('you', 'the')	1
+phone	('new', 'telephone')	2
+product	('While', 'such')	1
+phone	('an', 'unsecured')	1
+phone	('dedicated', 'private')	1
+product	('from', 'older')	1
+product	('its', 'Carleton')	1
+phone	('see', 'the')	1
+product	("Brands'", 'other')	1
+phone	('pay', 'subscriber')	1
+phone	('new', 'access')	3
+product	('Montana', 'fragrance')	1
+product	('IBM', 'PC')	1
+phone	('four', 'telephone')	1
+phone	('over', 'telephone')	2
+product	('out', 'a')	1
+phone	('a', 'dead')	1
+product	('its', 'aerospace')	1
+product	('sellers', 'in')	1
+product	('The', 'GM-')	1
+product	('the', 'apparel')	1
+product	('that', 'those')	1
+product	('$', 'billion')	1
+product	('produces', 'a')	1
+product	("Nabisco's", 'cereal')	1
+product	('its', 'new')	2
+product	('the', "company's")	1
+phone	('provide:', 'gab')	1
+product	('tried', 'a')	1
+product	('new', 'perfume')	1
+phone	('special', 'telephone')	1
+product	('the', 'Jeep')	1
+product	('its', '-model')	1
+product	('BRIEFS:', 'A')	1
+phone	('toll-free', 'telephone')	2
+product	('current', 'car')	1
+product	('submarine-seeking', 'torpedo')	1
+product	("IBM's", 'lastest')	1
+product	('and', 'marketing')	1
+phone	('New', 'telephone')	1
+product	('much', 'broader')	1
+product	("source's", 'latest')	1
+phone	('the', 'other')	1
+phone	('New', 'customer')	1
+phone	('than', 'access')	1
+product	('adult', 'diaper')	1
+product	('mostly', 'older')	1
+product	('most', 'product')	1
+product	('Grand', 'Prix')	1
+product	("'s", 'PS/')	1
+product	('from', 'his')	1
+product	('its', 'full')	1
+phone	('clogged', 'the')	1
+product	("IBM's", 'PS/')	2
+phone	('dozen', 'telephone')	1
+phone	('on', 'your')	1
+phone	('direct', 'trading')	1
+product	('and', 'Cougar')	1
+phone	('in', 'subscriber')	1
+product	('and', 'cracker')	1
+product	('dropping', 'the')	1
+phone	('residents', 'whose')	1
+phone	('Calif', 'gab')	1
+phone	('about', 'access')	1
+phone	('other', 'gab-')	1
+product	("Hollywood's", 'dreamboat')	1
+phone	('keep', 'a')	1
+product	('Patch', 'Kids')	1
+product	('excavation', 'equipment')	1
+product	('American', 'tire')	1
+product	('a', 'new')	6
+phone	('Keep', 'this')	1
+phone	('lost', 'the')	1
+product	('to', '$')	1
+phone	('an', 'open')	1
+product	('midrange', 'product')	1
+product	('complete', 'menswear')	1
+product	('eye-care', 'products')	1
+product	('of', 'jewelry')	1
+product	('athletic', 'shoe')	1
+phone	('clogged', 'telephone')	2
+phone	('has', 'million')	1
+product	('its', 'camera')	1
+phone	('on', 'that')	1
+phone	('dedicated', 'telephone')	1
+product	('the', "women's")	1
+phone	('said', 'access')	1
+phone	('of', 'telephone')	1
+product	('Tower', 'computer')	1
+product	('a', 'full')	1
+phone	('and', 'romance')	1
+phone	('more', 'than')	2
+product	('produce', 'a')	1
+phone	('installed', 'trading')	1
+product	('of', "Sun's")	1
+phone	('Edmonton', 'the')	1
+phone	('but', 'all')	1
+phone	('toll-call', 'party')	1
+product	('Choice', 'software')	1
+phone	('some', 'private')	1
+product	("'s", 'Macintosh')	1
+product	('Mirage', 'car')	1
+phone	('to', 'crossed')	1
+product	('its', 'Amiga')	1
+product	('The', 'Spectrum')	1
+phone	('by', 'direct')	1
+product	('time', "GM's")	1
+phone	('for', 'using')	1
+phone	('customer', 'access')	1
+product	('II', 'computer')	1
+product	('its', 'computer')	1
+phone	('new', 'customer')	1
+phone	('the', 'telephone')	2
+phone	('The', 'party-')	1
+product	('its', 'old')	1
+product	('for', 'the')	1
+phone	('another', 'telephone')	1
+phone	('most', 'important')	1
+product	("'s", 'Ziari')	1
+phone	('hardware', 'and')	1
+phone	('handle', 'only')	1
+phone	('running', 'gab')	1
+product	('manufacture', 'a')	1
+phone	('The', 'information')	1
+product	('other', 'marketing')	1
+product	('a', 'specialized')	1
+product	('broaden', 'its')	1
+product	('luxury', 'Lexus')	1
+product	('upscale', 'car')	1
+phone	('through', 'telephone')	1
+product	('because', 'its')	1
+phone	('for', 'direct')	1
+product	('its', 'current')	2
+product	('soft', 'drink')	1
+phone	('of', 'access')	1
+product	('just', 'at')	1
+product	('its', 'office-equipment')	1
+product	('the', 'old')	1
+product	('Chevrolet', 'Corsica')	1
+product	('The', 'credit')	1
+product	('the', 'building-materials')	1
+phone	('including', 'telephone')	1
+phone	('business', 'with')	1
+phone	('and', 'the')	1
+phone	('poorest', 'telephone-')	1
+product	('smaller', 'specialty-food')	1
+phone	('a', 'direct')	2
+product	('IBM', 'PS/')	1
+product	('read', 'the')	1
+product	('its', 'skin-care')	1
+product	('and', 'Transformers')	1
+phone	('foreign', 'exchange')	1
+phone	('Would', 'his')	1
+product	('and', 'Clarion')	1
+product	('agricultural', 'machinery')	1
+product	('all', 'its')	1
+product	('for', 'some')	1
+product	('under', 'the')	1
+phone	('secure', 'telephone')	1
+phone	('more', 'telephone')	1
+product	('Dr', 'Denton')	1
+product	('have', 'a')	1
+phone	('the', 'Hospital')	1
+product	('lucrative', 'military')	1
+product	('of', 'his')	1
+product	('by', 'George')	1
+product	('markets', 'a')	1
+product	('its', 'long-awaited')	1
+product	('basic', 'chemicals')	1
+product	('and', 'nail-polish')	1
+phone	('million', 'access')	1
+product	('its', 'microprocessor')	1
+product	('an', 'exclusive')	1
+phone	('for', 'about')	1
+product	('its', 'car')	1
+product	('products', 'a')	1
+phone	('says', 'clogged')	1
+product	('main', 'computer')	1
+product	('Oh', 'Lanterns')	1
+product	('the', 'acquired')	1
+product	("Pratt's", 'PW')	1
+product	('its', 'PS/')	2
+phone	('consumer', 'information')	1
+product	('shedding', 'some')	1
+phone	('sentence', 'the')	1
+phone	('many', 'private-')	1
+product	('other', 'consumer-products')	1
+product	('personal', 'computer')	1
+product	('introduced', 'a')	4
+product	('its', 'sewing')	1
+phone	('installing', 'about')	1
+product	('the', 'health-club')	1
+phone	('that', 'extending')	1
+phone	('or', 'asynchronous')	1
+product	('of', "Coleco's")	1
+product	('drilling', 'bit')	1
+product	('its', 'Zytel')	1
+phone	('on', 'another')	1
+phone	('their', 'telephone')	1
+phone	('new', 'X-rated')	1
+product	('nationally', 'advertised')	1
+product	('with', 'a')	1
+phone	('a', 'one-on-one')	1
+product	('initial', 'filter')	1
+phone	('serves', 'about')	1
+phone	('three', 'telephone')	1
+product	("company's", 'car')	1
+product	('its', 'VAX')	1
+product	('for', 'a')	1
+product	("Digital's", 'VAX')	1
+phone	('the', 'emergency')	1
+product	('reasonably', 'priced')	1
+product	('new', 'product')	1
+product	('already', 'huge')	1
+product	('&', 'Marx')	1
+product	('with', 'the')	1
+product	('existing', 'product')	1
+product	('consumer', 'products')	1
+phone	('the', 'subscriber-')	1
+product	('The', 'optometric')	1
+product	('its', 'ground-coffee')	1
+product	('and', 'a')	1
+phone	('in', 'sex')	1
+product	('the', '{product}')	1
+product	('entry-level', 'Fox')	1
+phone	('a', 'chat')	1
+phone	('over', 'ordinary')	1
+phone	('business', 'telephone')	1
+phone	('renting', 'communications')	1
+product	('sturdy', 'X')	1
+product	('testing', 'a')	1
+phone	('the', 'tip')	1
+product	('some', 'future')	1
+phone	('is', 'no')	1
+product	('a', 'car')	1
+product	("'s", 'Lancome')	1
+phone	('the', 'party')	1
+
+pair_m1_p1 frequency for each sense:
+phone	('access', 'growth')	1
+product	('the', 'as')	1
+product	('struggling', 'was')	1
+phone	('new', 'to')	1
+product	('computer', 'and')	1
+product	('three', 'at')	1
+product	('skin-care', 'is')	1
+product	('Atlas', 'and')	1
+phone	('the', 'to')	2
+product	('furniture', 'could')	1
+phone	('gab', 'have')	1
+phone	('tip', 'that')	1
+phone	('the', 'busy')	1
+phone	('telephone', 'increased')	1
+phone	('telephone', 'that')	2
+product	('rail-intermodal', 'which')	1
+product	('car', '"')	1
+product	('complete', 'of')	1
+phone	('the', 'making')	1
+phone	('telephone', 'and')	5
+product	('luxury-car', 'may')	1
+phone	('the', 'was')	4
+phone	('outside', 'and')	1
+product	('Smith', 'in')	1
+phone	('access', 'making')	1
+phone	('the', 'but')	1
+phone	('telephone-', 'increase')	1
+product	('their', '"')	1
+phone	('telephone', 'used')	1
+phone	('as', 'and')	1
+product	("'s", 'of')	1
+product	('similar', 'and')	1
+product	('R', 'made')	1
+product	('a', 'of')	17
+phone	('bisexual', 'recently')	1
+phone	('telephone', 'of')	1
+phone	('complaint', 'and')	1
+product	('truck', 'through')	1
+product	('integrated', 'of')	1
+product	('new', 'of')	9
+product	('popular', 'of')	1
+product	('diagnostics', 'showed')	1
+phone	('toll-free', 'for')	1
+product	('several', 'such')	1
+phone	('trading', 'yesterday')	1
+phone	('the', 'first')	1
+product	('car', 'at')	1
+phone	('whose', 'was')	1
+product	('car', 'by')	1
+phone	('telephone', 'into')	1
+phone	('radio', 'and')	1
+product	('food', 'to')	1
+product	('the', 'into')	1
+phone	('telephone', 'the')	1
+product	('such', 'will')	1
+phone	('unsecured', 'while')	1
+phone	('private', 'and')	1
+product	('Carleton', 'of')	1
+phone	('the', "let's")	1
+phone	('the', 'light')	1
+phone	('subscriber', 'charges')	2
+phone	('access', 'the')	1
+product	('fragrance', 'from')	1
+product	('PC', "wouldn't")	1
+phone	('The', 'was')	6
+phone	('telephone', 'over')	1
+phone	('access', 'were')	2
+phone	('dead', 'but')	1
+product	('in', 'ranging')	1
+product	('GM-', 'is')	1
+product	('those', 'were')	1
+product	('billion', 'of')	1
+product	('cereal', 'with')	1
+phone	('the', '"')	2
+product	("company's", 'of')	1
+phone	('gab', 'that')	1
+product	('perfume', '"Elizabeth')	1
+phone	('telephone', 'called')	1
+product	('Jeep', 'which')	1
+product	('-model', 'this')	1
+product	('A', 'of')	2
+product	('lastest', 'of')	1
+product	('marketing', 'and')	1
+phone	('telephone', 'grew')	1
+product	('broader', 'but')	1
+phone	('other', '"')	1
+phone	('customer', 'grew')	1
+product	('diaper', 'in')	1
+product	('older', 'products"')	1
+product	('product', 'particularly')	1
+product	('These', 'and')	1
+product	('Prix', 'is')	1
+product	('PS/', 'of')	2
+product	('his', 'of')	1
+product	('full', 'under')	1
+phone	('the', 'just')	1
+product	('PS/', 'are')	1
+phone	('telephone', 'at')	1
+phone	('your', 'and')	1
+phone	('trading', 'to')	2
+phone	('the', 'no')	1
+product	('PS/', 'that')	1
+product	('cracker', 'and')	1
+phone	('whose', 'were')	1
+phone	('gab', 'once')	1
+phone	('outside', 'dialed')	1
+phone	('access', 'in')	3
+phone	('gab-', 'proprietors')	1
+phone	('The', 'went')	1
+phone	('the', 'and')	2
+phone	('a', 'open')	1
+product	('Kids', 'could')	1
+product	('equipment', 'are')	1
+phone	('this', 'open')	1
+phone	('the', 'from')	1
+phone	('telephone', 'in')	1
+product	('$', 'of')	1
+phone	('open', 'to')	1
+product	('product', 'but')	1
+product	('products', 'had')	1
+product	('jewelry', 'from')	1
+product	('shoe', 'to')	1
+phone	('the', 'between')	1
+phone	('telephone', 'or')	1
+phone	('million', 'in')	1
+product	('camera', 'which')	1
+phone	('that', 'if')	1
+phone	('telephone', '--')	3
+product	("women's", 'where')	1
+phone	('access', 'increased')	1
+phone	('telephone', 'to')	1
+product	('computer', 'built')	1
+product	('full', 'of')	1
+phone	('than', 'mainly')	2
+product	("Sun's", 'and')	1
+phone	('the', 'were')	1
+phone	('telephone', 'growth')	1
+phone	('all', 'were')	1
+product	('software', 'pacing')	1
+product	('Macintosh', 'rose')	1
+phone	('the', 'with')	1
+product	('Amiga', 'of')	1
+product	('Spectrum', 'has')	1
+phone	('direct', 'to')	4
+product	("GM's", 'of')	1
+phone	('using', 'they')	1
+phone	('access', 'grew')	1
+product	('computer', 'is')	1
+product	('computer', 'moved')	1
+phone	('customer', 'a')	1
+phone	('the', 'in')	1
+product	('similar', 'called')	1
+phone	('telephone', 'because')	1
+phone	('party-', 'effect')	1
+product	('old', 'of')	1
+product	('the', 'he')	1
+product	('Ziari', 'of')	1
+phone	('and', 'adapters')	1
+phone	('gab', 'last')	1
+phone	('the', 'says')	1
+phone	('information', 'which')	1
+product	('marketing', 'said')	1
+product	('specialized', 'of')	1
+product	('its', 'by')	1
+product	('Lexus', 'in')	1
+product	('car', 'through')	1
+phone	('telephone', 'is')	1
+product	('its', 'machines')	1
+product	('current', 'of')	2
+product	('at', 'that')	1
+product	('old', '--')	1
+product	('credit', 'to')	1
+product	('building-materials', 'the')	1
+phone	('with', 'they')	1
+phone	('the', 'went')	2
+phone	('telephone-', 'growth')	1
+phone	('the', 'so')	1
+product	('the', 'in')	1
+product	('skin-care', 'last')	1
+product	('Transformers', ';')	1
+phone	('his', 'be')	1
+product	('Clarion', 'have')	1
+product	('machinery', 'fell')	1
+phone	('the', 'sir')	1
+phone	('the', 'like')	1
+product	('some', '"')	1
+product	('the', 'it')	1
+phone	('telephone', 'according')	1
+product	('Denton', 'of')	1
+product	('a', 'into')	1
+phone	('Hospital', 'was')	1
+product	('military', 'of')	1
+product	('his', 'to')	1
+product	('George', 'is')	1
+phone	('telephone', 'during')	1
+product	('long-awaited', 'of')	1
+product	('chemicals', 'from')	1
+product	('exclusive', 'of')	1
+phone	('about', 'in')	2
+product	('car', 'making')	1
+phone	('clogged', 'recently')	1
+product	('Lanterns', 'of')	1
+product	('acquired', 'to')	1
+product	('The', 'planned')	1
+product	('PW', 'have')	1
+product	('PS/', 'last')	1
+phone	('information', 'appealing')	1
+product	('some', 'and')	1
+phone	('private-', 'and')	1
+phone	('the', 'is')	1
+product	('consumer-products', 'there')	1
+phone	('the', 'for')	1
+product	('computer', "won't")	1
+product	('sewing', 'they')	1
+phone	('about', 'at')	1
+product	('health-club', 'Bally')	1
+phone	('extending', 'to')	1
+phone	('Business', 'increased')	1
+product	("Coleco's", 'and')	1
+product	('bit', 'is')	1
+product	('Zytel', 'of')	1
+phone	('one-on-one', 'like')	1
+product	('filter', 'for')	1
+product	('a', 'for')	1
+phone	('access', 'while')	1
+product	('car', 'and')	1
+product	('VAX', 'has')	1
+product	('VAX', "Cray's")	1
+product	('PS/', 'as')	1
+phone	('emergency', 'played')	1
+product	('priced', 'of')	1
+product	('product', 'included')	1
+product	('huge', 'of')	1
+product	('Marx', 'to')	1
+product	('the', 'because')	1
+phone	('the', 'that')	1
+product	('product', 'will')	1
+product	('products', 'so')	1
+phone	('subscriber-', 'charge')	1
+product	('optometric', 'were')	1
+product	('ground-coffee', 'through')	1
+phone	('the', 'at')	1
+phone	('sex', 'and')	1
+phone	('the', 'a')	1
+product	('{product}', '"')	1
+phone	('telephone', 'jumped')	1
+phone	('communications', 'to')	1
+product	('X', 'with')	1
+phone	('tip', 'are')	1
+product	('future', 'Hormel')	1
+phone	('no', 'noise')	1
+product	('car', 'anymore')	1
+product	('Lancome', 'are')	1
+phone	('party', 'a')	1
+
+pair_p1_p2 frequency for each sense:
+phone	('growth', 'in')	1
+product	('as', 'the')	1
+product	('was', 'scrapped')	1
+phone	('to', 'current')	1
+product	('and', 'its')	1
+product	('at', 'more')	1
+product	('is', '"a')	1
+product	('and', 'properties')	1
+phone	('to', 'order')	1
+product	('could', 'fetch')	1
+phone	('have', 'been')	1
+phone	('that', 'has')	1
+phone	('busy', 'for')	1
+phone	('increased', '%')	3
+phone	('that', 'link')	1
+product	('which', 'consists')	1
+product	('"', 'Mr')	1
+product	('of', 'mammography')	1
+phone	('making', 'a')	1
+phone	('and', 'spread')	1
+product	('may', 'not')	1
+phone	('was', 'dead')	6
+phone	('and', 'so')	1
+product	('in', 'is')	1
+phone	('making', 'it')	1
+phone	('but', 'many')	1
+phone	('increase', 'ever')	1
+product	('"', 'said')	1
+phone	('used', 'in')	1
+phone	('and', 'phones')	1
+product	('of', 'aircraft')	1
+product	('and', 'I')	1
+product	('made', 'by')	1
+product	('of', 'deluxe')	1
+phone	('was', 'that')	1
+phone	('recently', 'got')	1
+phone	('of', "Millionaire's")	1
+phone	('and', 'has')	1
+product	('through', 'Dec')	1
+product	('of', 'software')	1
+product	('of', 'computers')	4
+product	('of', 'cherubic')	1
+product	('showed', 'an')	1
+phone	('for', 'its')	1
+product	('such', 'as')	1
+phone	('yesterday', 'possibly')	1
+phone	('first', 'as')	1
+product	('at', 'Chevrolet')	1
+phone	('was', 'secure')	1
+product	('of', 'oversize')	1
+product	('by', '%')	1
+phone	('into', 'the')	1
+phone	('and', 'swore')	1
+product	('to', 'Kraft')	1
+product	('into', 'a')	1
+phone	('the', 'worst')	1
+product	('will', 'continue')	1
+phone	('while', 'Mr')	1
+phone	('and', 'public')	1
+product	('of', 'precision')	1
+phone	("let's", 'call')	1
+phone	('light', 'up')	1
+phone	('to', 'their')	1
+phone	('the', 'poorest')	1
+product	('from', 'Monteil')	1
+product	("wouldn't", 'still')	1
+phone	('and', 'one')	1
+phone	('over', 'cellular')	1
+phone	('were', 'added')	2
+product	('of', 'clothing')	1
+phone	('but', 'no')	1
+product	('ranging', 'from')	1
+product	('is', 'aimed')	1
+product	('were', 'hurt')	1
+product	('of', 'mid-sized')	1
+product	('of', 'more')	1
+product	('with', 'its')	1
+product	('of', 'personal')	4
+phone	('"', 'Fuqua')	1
+product	('of', 'PDP')	1
+product	('of', 'Limited')	1
+phone	('that', 'dozens')	1
+product	('of', 'frozen-cheese')	1
+product	('"Elizabeth', "Taylor's")	1
+phone	('will', 'be')	1
+phone	('called', '"Soap')	1
+product	('which', 'rose')	1
+product	('this', 'fall')	1
+product	('of', 'shoes')	2
+phone	('and', 'conduct')	1
+product	('and', 'involving')	1
+phone	('grew', '%')	2
+product	('but', 'they')	1
+phone	('"', 'he')	1
+product	('in', 'the')	2
+product	('products"', 'sold')	1
+product	('particularly', 'in')	1
+product	('and', 'the')	1
+product	('is', 'capable')	1
+product	('of', 'plush')	1
+product	('under', 'its')	1
+phone	('just', 'to')	1
+product	('are', 'expected')	1
+phone	('at', 'the')	2
+phone	('and', "I'll")	1
+phone	('to', 'the')	4
+phone	('no', 'doubt')	1
+phone	('charges', 'and')	1
+product	('that', 'it')	1
+product	('and', 'in')	1
+phone	('were', 'allegedly')	1
+phone	('once', 'talked')	1
+phone	('dialed', 'Homicide')	1
+phone	('in', 'a')	1
+phone	('proprietors', 'Megaquest')	1
+phone	('went', 'dead')	3
+phone	('and', 'leaves')	1
+phone	('open', 'for')	1
+product	('could', 'draw')	1
+product	('are', 'well')	1
+product	('of', 'high-end')	1
+phone	('from', 'the')	1
+phone	('in', 'Britain')	1
+product	('of', 'frozen')	3
+phone	('to', 'his')	1
+product	('but', 'declined')	1
+product	('had', 'sales')	1
+product	('of', 'minicomputers')	1
+product	('from', 'Crystal')	1
+product	('to', 'a')	1
+phone	('between', 'them')	1
+phone	('or', 'that')	1
+phone	('in', 'service')	3
+product	('which', 'has')	1
+phone	('if', 'he')	1
+phone	('--', 'its')	1
+product	('where', 'fashionability')	1
+phone	('to', 'record')	1
+product	('built', 'around')	1
+product	('of', 'auto')	1
+phone	('mainly', 'in')	2
+phone	('"', "I've")	1
+product	('of', "men's")	1
+phone	('to', 'about')	1
+product	('and', 'that')	1
+product	('of', 'mid-size')	1
+phone	('were', 'jammed')	1
+phone	('growth', 'by')	1
+phone	('were', 'out')	1
+product	('pacing', 'the')	1
+product	('rose', '%')	1
+phone	('with', 'the')	1
+product	('has', 'been')	2
+phone	('to', 'maybe')	1
+product	('of', 'older')	1
+phone	('they', 'had')	1
+phone	('grew', 'by')	1
+product	('is', 'still')	1
+product	('moved', 'up')	1
+phone	('a', '%')	1
+phone	('in', 'the')	1
+product	('called', 'Healthy')	1
+phone	('because', 'children')	1
+phone	('effect', 'could')	1
+product	('he', 'said')	1
+phone	('--', 'voices')	1
+product	('of', 'sunglasses')	1
+phone	('adapters', 'CIP')	1
+phone	('last', 'year')	1
+product	('of', 'trucks')	1
+phone	('says', 'Steven')	1
+product	('of', '"Captain')	1
+phone	('which', 'includes')	1
+product	('said', 'its')	1
+product	('of', 'beds')	1
+product	('by', 'offering')	1
+product	('through', 'a')	1
+phone	('and', 'to')	1
+phone	('is', 'suddenly')	1
+product	('of', "women's")	1
+product	('machines', 'also')	1
+product	('of', 'midpriced')	1
+product	('that', 'supplement')	1
+product	('--', 'that')	1
+product	('to', 'be')	1
+product	('of', 'mainframes')	1
+product	('the', 'company')	1
+phone	('and', 'then')	1
+phone	('they', 'deem')	1
+phone	('growth', 'since')	1
+phone	('so', 'I')	1
+product	('in', 'a')	1
+product	('last', 'month')	1
+product	(';', 'Tonka')	1
+product	('of', 'Chevrolet')	1
+phone	('be', 'tapped')	1
+product	('have', 'a')	1
+product	('fell', 'to')	1
+phone	('sir', '"')	1
+phone	('like', 'they')	1
+product	('it', 'had')	1
+phone	('that', "can't")	1
+phone	('according', 'to')	1
+product	('of', 'sweaters')	1
+product	('into', 'the')	1
+phone	('was', 'still')	2
+product	('of', 'computer')	1
+product	('to', 'survive')	1
+product	('is', 'just')	1
+product	('of', 'Japanese-made')	1
+phone	('during', 'the')	1
+product	('of', 'laptop')	1
+product	('from', 'Imperial')	1
+phone	('was', 'busy')	1
+product	('of', 'stylish')	1
+phone	('in', 'China')	1
+product	('making', 'it')	1
+product	('of', 'plastic')	1
+phone	('recently', 'caused')	1
+product	('of', 'grotesque')	1
+product	('to', 'Cincinnati-based')	1
+product	('planned', 'for')	1
+product	('have', 'reached')	1
+product	('last', 'April')	1
+phone	('appealing', 'for')	1
+product	('and', 'perhaps')	1
+phone	('and', 'Centrex')	1
+phone	('is', 'in')	1
+product	('there', 'including')	1
+phone	('for', 'you')	1
+product	("won't", 'help')	1
+product	('of', 'coronary')	1
+product	('they', 'still')	1
+product	('Bally', 'could')	1
+phone	('to', 'investment')	1
+product	('and', 'sales')	1
+product	('is', '"substantially')	1
+product	('of', 'nylon')	1
+phone	('--', 'checking')	1
+product	('of', 'jeans')	1
+phone	('like', 'the')	1
+product	('for', 'three')	1
+phone	('in', 'central')	1
+product	('for', 'the')	1
+phone	('while', 'a')	1
+phone	('and', 'a')	1
+product	('and', 'a')	1
+product	('of', 'Green')	1
+product	("Cray's", 'spokesman')	1
+product	('as', 'a')	1
+phone	('played', 'at')	1
+product	('of', 'stock')	1
+product	('included', 'the')	1
+product	('of', 'General')	1
+product	('because', 'Noxell')	1
+phone	('that', 'might')	1
+product	('will', 'take')	1
+product	('so', 'it')	1
+phone	('charge', 'by')	1
+product	('of', 'Halloween')	1
+product	('were', 'expected')	1
+product	('through', 'costly')	1
+phone	('at', 'once')	1
+product	('of', 'jockey')	1
+phone	('and', 'gab')	1
+phone	('was', 'John')	1
+phone	('a', 'voice')	1
+product	('"', 'she')	1
+phone	('jumped', '%')	1
+phone	('to', 'tie')	1
+product	('with', 'current')	1
+phone	('are', 'Wall')	1
+product	('Hormel', 'carries')	1
+phone	('noise', '"')	1
+product	('anymore', '"')	1
+product	('are', 'likely')	1
+phone	('a', 'new')	1
+
+window frequency for each sense:
+phone	booming	1
+phone	in	22
+phone	past	1
+phone	the	78
+phone	is	5
+phone	%	10
+phone	access	15
+phone	with	11
+phone	growth	6
+phone	year	3
+product	in	23
+product	establish	2
+product	wants	1
+product	IBM	9
+product	as	4
+product	to	46
+product	the	63
+product	new	19
+product	standard	2
+product	Kraft	2
+product	struggling	1
+product	scrapped	1
+product	Inc	9
+product	was	1
+product	bought	1
+phone	current	1
+phone	business	4
+phone	to	41
+phone	about	9
+phone	Bell	3
+phone	customers	4
+phone	new	10
+phone	sold	1
+phone	by	8
+phone	has	10
+product	first	2
+product	mainframe	1
+product	computer	7
+product	most	4
+product	mid-range	1
+product	and	46
+product	powerful	1
+product	its	54
+product	previous	1
+product	%	8
+product	some	7
+product	for	28
+product	sales	9
+product	million	6
+product	than	5
+product	more	10
+product	total	1
+product	$	9
+product	three	2
+product	at	5
+product	Prairie	1
+product	"a	1
+product	part"	1
+product	includes	2
+product	is	13
+product	skin-care	2
+product	La	1
+product	of	91
+product	small	1
+product	selling	4
+product	consider	2
+product	it	9
+product	Atlas	1
+product	certain	1
+product	would	3
+product	gain	1
+product	should	1
+product	properties	1
+phone	it	6
+phone	stay	1
+phone	callers	2
+phone	order	1
+phone	on	31
+phone	of	28
+product	about	5
+product	fetch	1
+product	The	10
+product	could	4
+product	furniture	1
+phone	gab	5
+phone	big	1
+phone	S	3
+phone	money-maker	1
+phone	U	2
+phone	have	4
+phone	a	42
+phone	been	6
+phone	Jersey-based	1
+phone	tip	2
+phone	New	7
+phone	getting	1
+phone	attention	1
+phone	telephone	40
+phone	that	15
+phone	hundred	2
+phone	thousand	2
+phone	or	11
+phone	busy	3
+phone	keep	3
+phone	interval	1
+phone	long	1
+phone	proper	1
+phone	enough	1
+phone	for	13
+phone	million	9
+phone	residential	1
+phone	and	38
+phone	increased	3
+phone	Business	2
+phone	up	5
+product	microprocessor	2
+product	showing	1
+product	from	14
+product	strong	1
+phone	workers	1
+phone	government	1
+phone	leased	1
+phone	long-distance	1
+phone	link	1
+phone	equipment	1
+product	strategy	1
+product	shedding	3
+product	non-food	1
+product	consists	1
+product	rail-intermodal	1
+product	which	6
+product	piggyback	1
+product	trailers	1
+phone	dial-up	1
+phone	either	1
+phone	dedicated	4
+phone	using	3
+product	car	10
+product	GM	1
+product	Mr	1
+product	"	8
+product	said	13
+product	distinction	1
+product	Hoglund	1
+product	between	1
+product	mammography	1
+product	equipment	2
+product	a	52
+product	complete	3
+product	Thomson	1
+product	has	10
+phone	making	2
+phone	our	1
+phone	call	7
+phone	butler	1
+phone	from	6
+phone	was	19
+phone	Paul's	1
+phone	spread	1
+phone	These	1
+phone	costs	2
+phone	companies	4
+phone	rent	1
+phone	among	2
+phone	private	5
+product	not	2
+product	may	2
+product	big	4
+product	enough	1
+product	luxury-car	1
+product	be	6
+product	that	16
+phone	switched	1
+phone	dead	11
+phone	outside	2
+phone	Brad	1
+phone	an	5
+phone	so	3
+phone	took	1
+product	change	1
+product	introducing	1
+product	Jaclyn	1
+product	trying	1
+product	Smith	2
+product	by	7
+phone	six	1
+phone	than	6
+phone	slightly	1
+phone	larger	1
+phone	pick	1
+phone	many	3
+phone	may	1
+phone	forcing	1
+phone	don't	1
+phone	people	2
+phone	operator	2
+phone	but	4
+phone	company	7
+phone	ever	1
+phone	had	4
+phone	"	7
+phone	largest	1
+phone	telephone-	2
+phone	its	8
+phone	increase	3
+product	food	2
+product	only	1
+product	on	12
+product	frozen	5
+phone	came	10
+phone	over	6
+phone	sleep	1
+product	Mikita	1
+product	expand	1
+product	Richard	1
+product	an	5
+product	need	1
+product	their	2
+phone	prices	1
+phone	high	1
+phone	used	1
+phone	networks	1
+phone	communications	2
+phone	can	5
+phone	phones	1
+phone	as	3
+phone	accommodate	1
+product	aircraft	1
+product	Pneumo	1
+product	Corp	4
+product	shops	1
+product	's	7
+product	Abex	1
+product	landing	1
+product	gear	1
+product	I	2
+product	made	2
+product	cheaper	1
+product	produced	1
+product	similar	2
+product	Tire	1
+product	Goodrich	1
+product	Goodrich's	1
+product	T/A	1
+product	R	1
+product	Uniroyal	1
+product	Nestle	1
+product	arms	1
+product	deluxe	1
+product	launch	2
+product	candy	1
+phone	Russo	1
+phone	Pete	1
+phone	end	10
+phone	other	12
+phone	recently	4
+phone	got	5
+phone	rolling	1
+phone	monitor	1
+phone	Megaquest's	1
+phone	The	13
+phone	conversation	1
+phone	bisexual	1
+phone	Beach	1
+phone	Lambert	1
+phone	Millionaire's	1
+phone	York	5
+phone	publisher	1
+phone	Douglas	1
+phone	toll-free	4
+phone	established	1
+phone	complaint	1
+phone	service	4
+phone	notes	1
+phone	rewritten	1
+product	Dec	1
+product	through	3
+product	truck	1
+product	compatible	1
+product	with	10
+product	demand	1
+product	high	1
+product	allow	1
+product	software	2
+product	integrated	1
+product	products	9
+product	April	3
+product	computers	10
+product	along	1
+product	cherubic	1
+product	popular	3
+product	children's	1
+product	illustrated	1
+product	characters	1
+product	Bible	1
+phone	lack	1
+phone	necessary	1
+product	diagnostics	1
+product	company's	5
+product	showed	1
+product	increase	1
+phone	customers'	1
+phone	WordPerfect	1
+phone	calls	1
+phone	users	1
+phone	provides	1
+product	such	2
+product	analysts	1
+product	star	1
+product	rock	1
+product	Hasbro's	1
+product	extensions	1
+product	several	2
+phone	sales	1
+phone	weren't	1
+phone	trading	3
+phone	answering	1
+phone	yesterday	1
+phone	possibly	1
+phone	avoid	1
+phone	firms	1
+phone	their	3
+product	this	2
+product	one	2
+product	apparel	5
+phone	first	1
+phone	voice	4
+phone	distant	1
+phone	Merlin	1
+product	highest-volume	1
+product	Chevrolet	3
+product	make	2
+product	but	5
+product	up	5
+phone	off	4
+phone	her	3
+phone	get	3
+phone	rang	1
+phone	picked	1
+phone	secure	2
+phone	whose	2
+phone	phone	6
+phone	he	6
+product	create	1
+product	oversize	1
+product	stocked	1
+product	clothes	1
+product	firms	1
+product	less	2
+product	or	1
+phone	late	1
+phone	into	2
+phone	Angeles	1
+phone	area	1
+phone	opened	1
+phone	Los	1
+phone	open	5
+phone	viciously	1
+phone	radio	2
+phone	swore	1
+product	recently	4
+product	sell	6
+product	acquired	2
+product	building	1
+product	annual	1
+product	into	4
+product	billion	3
+product	PC	2
+phone	you	3
+phone	only	3
+phone	gained	1
+phone	worst	1
+product	offered	1
+product	continue	2
+product	will	6
+product	While	1
+phone	unsecured	1
+phone	eventually	1
+phone	Mr	2
+phone	while	3
+phone	aboard	1
+phone	spoke	1
+phone	Reagan	1
+phone	combination	1
+phone	transmit	1
+phone	public	1
+phone	lines	2
+product	profits	1
+product	older	3
+product	out	2
+product	Carleton	1
+product	precision	1
+product	components	1
+product	pneumatic	1
+product	principle	1
+phone	let's	1
+phone	him	4
+phone	Barry	1
+phone	Stump	1
+phone	see	1
+phone	Scala	1
+phone	doesn't	1
+phone	light	1
+phone	businesses	1
+phone	homes	1
+phone	fixed	1
+product	relative	1
+product	American	2
+product	Brands'	1
+product	other	4
+phone	pay	1
+phone	subscriber	2
+phone	be	6
+phone	charges	2
+phone	required	1
+phone	annual	1
+phone	poorest	2
+phone	volume	1
+phone	added	4
+product	license	1
+product	Monteil	1
+product	fragrance	1
+product	Montana	1
+product	sources	2
+product	Claude	1
+product	old	3
+product	sellers	2
+product	wouldn't	1
+product	still	3
+phone	just	2
+phone	one	3
+phone	four	1
+phone	desk	1
+phone	cellular	1
+phone	moving	1
+phone	computer	2
+phone	systems	2
+phone	nine-state	1
+phone	were	5
+phone	more	7
+phone	said	5
+product	clothing	1
+product	name	2
+product	under	8
+product	bringing	1
+product	interested	1
+phone	talking	1
+phone	no	3
+phone	his	4
+product	reorganization	1
+product	aerospace	1
+product	best	1
+product	toys	4
+product	were	6
+product	ranging	1
+product	GM-	1
+product	regaining	1
+product	aimed	1
+product	merchandising	1
+product	those	1
+product	returns	1
+product	noting	1
+product	reduced	1
+product	hurt	1
+product	Keller	1
+product	added	1
+product	cars	3
+product	mid-sized	1
+phone	syrupy	1
+product	two	2
+product	rush	1
+product	produces	1
+product	biotechnology	1
+product	gold	1
+product	dozen	1
+product	own	2
+product	lines	1
+product	Ralston	1
+product	combining	1
+product	Purina	1
+product	cereal	1
+product	Nabisco's	1
+product	personal	5
+product	announcement	1
+phone	Fuqua	1
+phone	remarks	1
+product	PDP	1
+product	built	3
+product	manager	1
+product	who	1
+product	scientific	1
+product	also	3
+product	Limited	1
+product	It	3
+product	lingerie	1
+phone	dozens	1
+phone	provide:	1
+phone	counterparts	1
+product	tried	1
+product	frozen-cheese	1
+product	dinners	2
+product	company	3
+product	"Elizabeth	1
+product	her	1
+product	Passion	1
+product	Taylor's	1
+product	celebrate	1
+product	perfume	1
+phone	available	1
+phone	hours	1
+phone	will	1
+phone	special	2
+phone	"Soap	1
+phone	Talk	1
+phone	called	1
+product	minivan	1
+product	top-selling	1
+product	Jeep	1
+product	rose	2
+product	introduce	2
+product	why	1
+product	efforts	1
+product	fall	1
+product	-model	1
+product	BRIEFS:	1
+product	A	2
+product	pregnant	1
+product	women	1
+product	shoes	2
+phone	Customers	1
+phone	conduct	1
+phone	transactions	1
+phone	mail	1
+product	current	5
+product	separate	1
+product	submarine-seeking	1
+product	torpedo	1
+product	lastest	1
+product	IBM's	4
+product	prices	2
+product	changed	1
+product	since	1
+product	Official	1
+product	haven't	1
+product	marketing	2
+product	staff	1
+product	manufacturing	2
+product	involving	1
+product	cuts	1
+product	substantial	1
+phone	grew	3
+product	they	3
+product	broader	1
+product	better	1
+product	don't	1
+product	have	6
+product	financially	1
+product	much	2
+product	do	1
+product	source's	1
+product	latest	1
+product	push	1
+phone	asked	2
+phone	husband	1
+phone	customer	3
+phone	third	2
+phone	total	2
+product	quarter	1
+product	adult	1
+product	diaper	1
+product	second	1
+product	drugs	1
+product	either	1
+product	sold	1
+product	mostly	1
+product	products"	1
+product	markets;	1
+product	international	1
+product	product	4
+product	particularly	1
+product	growth	2
+product	store	1
+product	These	1
+product	department	1
+product	Stern's	1
+product	builds	1
+product	Prix	1
+product	capable	1
+product	producing	1
+product	Grand	1
+product	PS/	6
+product	Machines	1
+product	Business	1
+product	samples	1
+product	all	2
+product	plush	1
+product	bears	1
+product	his	2
+product	brand	1
+product	full	2
+phone	"let	1
+phone	clogged	4
+phone	day	1
+phone	steam	1
+product	addition	1
+product	clones	1
+product	are	5
+product	marketed	1
+product	expected	2
+phone	Washington	1
+phone	headquarters	1
+phone	group's	1
+phone	volunteers	1
+phone	dozen	2
+phone	at	5
+phone	I'll	1
+phone	let	1
+phone	test	1
+phone	your	2
+phone	put	1
+phone	know	1
+phone	banks	2
+phone	Federal	1
+phone	direct	5
+phone	Reserve	1
+product	Cougar	1
+product	Thunderbird	1
+phone	come	1
+phone	wanting	1
+phone	doubt	1
+phone	express	1
+phone	changes	1
+phone	increases	1
+phone	separation	1
+phone	through	6
+product	ingredient	1
+product	heavily	1
+product	promoted	1
+product	cracker	1
+product	cookie	1
+product	Brands	2
+product	Nabisco	1
+product	Toshiba	1
+product	considered	1
+product	dropping	1
+phone	residents	1
+phone	allegedly	1
+phone	Three	1
+phone	tapped	2
+phone	filed	1
+phone	deranged	1
+phone	talked	1
+phone	Fresno	1
+phone	Vietnam	1
+phone	once	2
+phone	Calif	1
+phone	Homicide	1
+phone	Frank	1
+phone	dialed	1
+phone	Enterprise	1
+phone	serves	4
+phone	which	5
+phone	territory	1
+phone	Harrisburg	1
+phone	between	2
+phone	gab-	1
+phone	Like	1
+phone	operators	1
+phone	hires	1
+phone	proprietors	1
+phone	Megaquest	1
+product	flagship	1
+product	dreamboat	1
+product	Hollywood's	1
+phone	went	3
+phone	stays	1
+phone	name	1
+phone	leaves	1
+phone	caller	1
+phone	later	1
+phone	Elsie	1
+phone	repeat	1
+phone	power	1
+phone	session	1
+product	Patch	2
+product	Kids	1
+product	draw	1
+product	Cabbage	2
+product	even	1
+product	bidders	1
+product	Ironically	1
+product	excavation	1
+product	Becor's	1
+product	regarded	1
+product	well	2
+product	North	1
+product	tire	1
+product	introduction	1
+product	disk	1
+product	high-end	2
+product	drives	1
+phone	Keep	1
+phone	this	1
+phone	they've	1
+phone	next	1
+phone	lost	1
+phone	location	1
+phone	Van	1
+phone	:	1
+phone	Britain	1
+phone	include	1
+phone	setting	1
+phone	countries	1
+product	breakfasts	1
+product	called	2
+product	Swanson's	1
+phone	keeping	2
+phone	office	1
+phone	We're	1
+product	elaborate	1
+product	related	1
+product	declined	1
+product	midrange	2
+product	menswear	1
+product	had	2
+product	eye-care	1
+product	networks	1
+product	NCR	1
+product	introduced	7
+product	minicomputers	1
+product	linking	1
+product	Crystal	1
+product	number	1
+product	jewelry	1
+phone	when	1
+phone	Foley	1
+product	management	1
+product	Kaepa	1
+product	group	1
+product	athletic	1
+product	shoe	1
+product	shipping	1
+phone	them	1
+phone	air	1
+phone	failed	1
+phone	couldn't	1
+phone	fund	1
+phone	last	2
+phone	telephones	1
+phone	year;	1
+product	camera	1
+product	instant-film	1
+product	been	4
+product	technology	1
+phone	could	3
+phone	try	1
+phone	not	1
+phone	if	1
+phone	--	4
+phone	must	1
+phone	depend	1
+phone	still	5
+phone	satellite	1
+phone	upon	1
+product	women's	2
+product	where	1
+product	scarce	1
+product	especially	1
+product	fashionability	1
+product	far	2
+phone	Francisco-based	1
+phone	Pacific	2
+phone	Telesis	2
+phone	use	2
+phone	viewers'	1
+phone	record	2
+phone	opinions	1
+product	around	1
+product	Tower	1
+product	Motorola	1
+product	member	1
+product	lacks	1
+product	Volvo	1
+product	auto	1
+phone	romance	1
+phone	horoscopes	1
+phone	celebrity	1
+phone	chatter	1
+phone	mainly	2
+phone	Telephone	2
+phone	Western-Central	2
+phone	McGuire	1
+phone	tearfully	1
+phone	heard	1
+phone	I've	2
+phone	Johnny	1
+product	produce	1
+product	men's	1
+product	Club	1
+product	named	1
+product	fragrances	1
+product	after	1
+phone	installed	2
+product	Sun's	1
+product	end	1
+product	low	1
+product	remain	1
+product	units	1
+product	late	1
+product	next	1
+product	begin	1
+product	output	1
+product	mid-size	2
+phone	Meanwhile	1
+phone	fans	1
+phone	disgruntled	1
+phone	jammed	1
+phone	Edmonton	1
+phone	Texas	1
+phone	advanced	1
+phone	stimulated	1
+phone	products	1
+phone	pushing	1
+phone	all	1
+phone	out	1
+phone	Kent	1
+phone	toll-call	1
+phone	party	2
+phone	bill	1
+phone	dialing	1
+product	First	1
+product	Choice	2
+product	Graphics	1
+product	pacing	1
+product	advance	1
+phone	flat-rate	1
+phone	fee	1
+phone	some	1
+product	Computer	1
+product	Macintosh	1
+product	Apple	2
+product	Galant	1
+product	Mirage	1
+phone	news	1
+phone	back	3
+phone	maintain	1
+phone	prone	1
+phone	crossed	1
+product	revenue	1
+product	Amiga	1
+product	increased	1
+product	edged	1
+product	development	1
+product	Spectrum	1
+phone	maybe	1
+phone	fellow	1
+phone	handsets	1
+phone	connected	1
+product	rear-wheel-drive	1
+product	time	1
+product	GM's	1
+product	same	1
+product	At	1
+phone	chastised	1
+phone	they	3
+phone	officials	1
+phone	ordered	1
+phone	based	1
+phone	during	2
+phone	Atlanta	1
+product	Apple's	1
+product	II	1
+product	mainstay	1
+product	original	1
+product	moved	1
+product	OTC	1
+phone	bursts	1
+phone	shouting	1
+phone	often	1
+phone	middle	2
+product	ConAgra	1
+product	Healthy	1
+phone	explicit	1
+phone	because	1
+phone	children	1
+phone	messages	1
+phone	easily	1
+phone	party-	1
+phone	effect	1
+phone	defeat	1
+product	prospects	1
+product	difficult	1
+product	he	1
+phone	second	1
+phone	voices	1
+phone	lawyers	1
+phone	another	2
+phone	held	1
+phone	most	1
+phone	adds:	1
+phone	important	1
+product	sunglasses	1
+product	Ziari	1
+product	Allegra	1
+phone	adapters	1
+phone	hardware	1
+phone	care	1
+phone	OS	1
+phone	takes	1
+phone	CIP	1
+phone	compatibility	1
+phone	interface	1
+phone	system	1
+phone	handle	1
+phone	Bill	1
+phone	Sinclair	1
+phone	stunned	1
+phone	started	1
+phone	Cincinnati	1
+phone	running	1
+product	Britain	1
+product	manufacture	1
+product	agreement	1
+product	trucks	2
+product	jointly	1
+phone	live	1
+phone	Steven	1
+phone	says	3
+phone	Norwitz	1
+phone	vice	1
+product	figures	1
+product	Power"	1
+product	"Captain	1
+phone	reference	1
+phone	everything	1
+phone	includes	1
+phone	information	2
+product	margin	1
+product	public	1
+product	operating	1
+product	profit	1
+product	relations	1
+product	specialized	1
+product	beds	1
+product	sells	1
+product	Berkshire	1
+product	daybeds	1
+product	plans	2
+product	lower-priced	1
+product	WOW	1
+product	offering	1
+product	broaden	1
+product	luxury	1
+product	Lexus	1
+product	S	1
+product	U	1
+product	launched	1
+product	network	1
+product	upscale	1
+product	dealer	1
+phone	update	1
+phone	's	2
+phone	central	2
+phone	suddenly	1
+phone	document	1
+phone	ubiquitous	1
+product	wear	1
+product	endorse	1
+product	designed	2
+product	because	2
+product	machines	1
+product	compete	1
+product	customers	2
+product	dealers	1
+phone	Fed	2
+phone	are	4
+phone	applying	1
+phone	others	1
+product	lodgings	1
+product	motels	1
+product	midpriced	1
+product	high-priced	1
+product	budget	1
+product	Slice	1
+product	soft	1
+product	drink	1
+phone	number	1
+product	graphics	1
+product	just	2
+product	broadly	1
+product	Minute	1
+product	supplement	1
+product	chilled	1
+product	Maid's	1
+product	office-equipment	1
+product	cost-cutting	1
+product	--	1
+product	authorized	1
+product	totaling	1
+product	now	1
+product	high-volume	1
+product	Corsica	1
+product	working	1
+product	used	1
+product	credit	1
+product	run	1
+product	bit	2
+product	mainframes	1
+product	building-materials	1
+phone	wistful	1
+phone	then	1
+phone	facilities	1
+phone	expand	1
+phone	including	1
+phone	telecommunications	1
+phone	Szemzo	1
+phone	simply	1
+phone	offensive	1
+phone	doing	1
+phone	deem	1
+phone	stop	1
+phone	ocean	1
+phone	swell	1
+phone	posted	1
+phone	since	2
+phone	Great	1
+phone	Depression:	1
+product	specialty-food	1
+product	smaller	1
+phone	bank	1
+phone	hell	1
+phone	calling	2
+phone	I	1
+phone	Get	1
+phone	start	1
+product	Kathleen	1
+product	laundry	1
+product	read	1
+product	detergent	1
+product	Fab	1
+product	Actress	1
+product	Turner	1
+product	month	1
+product	last	3
+product	Alfin	1
+product	stopped	1
+product	Transformers	1
+product	;	1
+product	Tonka	1
+product	Joe	1
+product	G	1
+product	scored	1
+product	joint	1
+product	promotion	1
+product	pickup	1
+phone	represented	1
+phone	exchange	1
+phone	foreign	1
+phone	Would	1
+product	share	1
+product	Girl	1
+product	Cover	1
+product	Noxell's	1
+product	Clarion	1
+product	combined	1
+product	agricultural	1
+product	fell	1
+product	losses	1
+product	machinery	1
+phone	sir	1
+phone	ballistics	1
+phone	Here's	1
+phone	like	2
+phone	do	1
+product	positions	1
+product	pretty	1
+product	negative	1
+product	cards	1
+product	Hallmark	1
+product	charged	1
+product	different	1
+phone	bugged	1
+phone	assigned	1
+phone	can't	1
+phone	affair	1
+phone	exchanges	1
+phone	Inc	1
+phone	handling	1
+phone	according	1
+phone	Dataquest	1
+product	Dr	1
+product	infants	1
+product	toddlers	1
+product	market	3
+product	sweaters	1
+product	Denton	1
+product	we	1
+product	concerned	1
+product	them	1
+product	before	1
+phone	Hospital	1
+phone	ringing	1
+product	military	1
+product	lucrative	1
+product	survive	1
+product	importing	1
+product	bracing	1
+product	George	1
+product	getting	1
+product	way	1
+product	Chicken	1
+product	Its	1
+product	newer	1
+product	Japanese-made	1
+product	markets	1
+product	batteries	1
+product	alkaline	1
+product	Kodak	1
+product	versions	1
+phone	crash	1
+product	laptop	1
+product	unveil	1
+product	long-awaited	1
+product	Compaq	1
+product	PLC	1
+product	Industries	1
+product	Imperial	1
+product	basic	1
+product	Chemical	1
+product	chemicals	1
+product	revamped	1
+product	lipstick	1
+product	nail-polish	1
+phone	hung	1
+product	testers	1
+product	Teradyne	1
+product	bedroom	1
+product	exclusive	1
+product	kitchen	1
+product	stylish	1
+product	start	1
+phone	China	1
+phone	orders	1
+phone	taken	1
+product	making	2
+product	six	1
+product	Big	1
+product	Playmobile	1
+product	Alexandria	1
+product	pre-school	1
+product	plastic	1
+phone	quit	1
+phone	N	1
+phone	Y	1
+phone	Mineola	1
+phone	caused	1
+product	CORP	1
+product	main	1
+product	Productions'	1
+product	Lanterns	1
+product	grotesque	1
+product	pumpkin	1
+product	high-roller	1
+product	Oh	1
+product	polyurethane	1
+product	faces	1
+product	Pumpkin	1
+product	Gamble	1
+product	Soleil	1
+product	&	2
+product	Procter	1
+product	Cincinnati-based	1
+product	sale	1
+product	Softsoap	1
+product	planned	1
+product	Pratt's	1
+product	nearly	1
+product	reached	1
+product	engines	1
+product	involved	1
+product	PW	1
+product	partially	1
+phone	appealing	1
+phone	help	1
+phone	Corp	1
+phone	Whirlpool	1
+phone	consumer	1
+phone	appliances	1
+product	perhaps	1
+product	adding	1
+product	gradually	1
+product	others	1
+phone	sentence	1
+phone	Centrex	1
+phone	won	1
+phone	private-	1
+phone	any	1
+phone	incoming	1
+phone	neither	1
+phone	While	1
+product	consumer-products	1
+product	beef	1
+product	there	1
+product	aluminum	1
+product	foil	1
+product	including	1
+phone	now	1
+phone	Sellers	1
+product	help	1
+product	least	1
+product	until	1
+product	won't	1
+product	angioplasty	1
+product	catheters	1
+product	cardiovascular	1
+product	balloon	1
+product	disease	1
+product	coronary	1
+product	sewing	1
+product	year	1
+phone	World	1
+phone	installing	1
+phone	Congress	1
+phone	furiously	1
+phone	Center	1
+product	health-club	1
+product	By	1
+product	Bally	1
+product	focus	1
+phone	investment	1
+phone	spokesman	1
+phone	Friday	1
+phone	extending	1
+phone	jazz	1
+phone	asynchronous	1
+phone	synchronous	1
+product	Coleco's	1
+product	remainder	1
+product	larger"	1
+product	drilling	1
+product	"substantially	1
+product	nylon	1
+product	capacity	1
+product	resins	1
+product	Uentrop	1
+product	Zytel	1
+phone	patients	1
+phone	services	1
+phone	checking	1
+phone	schedules	1
+phone	airline	1
+phone	expensive	1
+phone	launching	1
+phone	X-rated	1
+product	nationally	1
+product	superior	1
+product	advertised	1
+product	business	1
+product	jeans	1
+phone	there	2
+phone	C-Line	1
+phone	one-on-one	1
+phone	choose	1
+product	filter	1
+product	commission	1
+product	initial	1
+product	years	2
+phone	Illinois	1
+phone	concern	1
+product	home	1
+phone	Burger	1
+phone	King	1
+phone	strong	1
+phone	computers	2
+phone	copying	1
+phone	machine	1
+phone	two	1
+phone	three	1
+product	spokesman	2
+product	Although	1
+product	fueling	1
+product	VAX	2
+product	enormously	1
+product	Giant	1
+product	hefty	1
+product	Green	1
+product	vegetable	1
+product	costs	1
+product	introductory	1
+product	estimated	1
+product	Digital's	1
+product	Cray's	1
+product	linked	1
+product	attempt	1
+phone	played	1
+phone	Guba's	1
+phone	emergency	1
+phone	trial	1
+product	stock	1
+product	good	1
+product	priced	1
+product	reasonably	1
+product	based	1
+product	included	1
+product	DPX/	1
+product	maker	1
+product	huge	1
+product	Foods	2
+product	General	1
+product	already	1
+product	consumers	1
+product	brands	1
+product	Marx	1
+product	Hart	1
+product	Schaffner	1
+product	stay	1
+product	Noxell	1
+product	historically	1
+product	going	1
+phone	might	1
+phone	crackle	1
+product	replace	1
+product	take	1
+product	basically	1
+product	existing	1
+product	can	1
+product	concentrate	1
+product	so	1
+product	consumer	1
+phone	subscriber-	1
+phone	charge	1
+phone	voted	1
+product	novelties	1
+product	gifts	1
+product	Cards	1
+product	Halloween	1
+product	optometric	1
+product	garner	1
+product	costly	1
+product	acquisitions	1
+product	ground-coffee	1
+phone	Sarah	1
+product	System	1
+product	Reebok;	1
+product	Etonic	1
+product	One	1
+product	silks	1
+product	jockey	1
+phone	sex	1
+phone	we	1
+phone	abuse	1
+phone	Warnecke	1
+phone	Carl	1
+phone	John	1
+phone	blankets	1
+phone	promises	1
+product	pressure	1
+product	she	1
+product	{product}	1
+product	says	1
+product	Fox	1
+product	entry-level	1
+product	unit	1
+phone	It's	1
+phone	</p>	1
+phone	chat	1
+phone	send	1
+phone	pictures	1
+phone	ordinary	1
+phone	instance	1
+phone	jumped	1
+phone	For	1
+phone	five	1
+phone	When	1
+phone	Recruit	1
+phone	tie	1
+phone	renting	1
+phone	began	1
+phone	nationwide	1
+product	unglamorous	1
+product	X	1
+product	sturdy	1
+product	currently	1
+product	testing	1
+product	entrees	1
+phone	Wall	1
+phone	hungry	1
+phone	Street	1
+phone	brokers	1
+product	bet	1
+product	Hormel	1
+product	future	1
+product	carries	1
+product	risk	1
+phone	such	1
+phone	noise	1
+phone	transmitted	1
+product	laments	1
+product	anymore	1
+product	Segal	1
+product	Steve	1
+product	likely	1
+product	Cosmair	1
+product	archrival	1
+product	follow	1
+product	Lancome	1
+phone	function	1
+phone	renamed	1
+phone	BellSouth	1
+phone	gave	1
+
+word frequency for each sense:
+phone	line	95
+product	line	132
+phone	lines	82
+product	lines	63
+phone	Lines	1
+product	Line	1
+
+instance_id	sense_id	w_minus_1	w_plus_1	pair_m2_m1	pair_m1_p1	pair_p1_p2	window
+line-n.w8_059:8174:	phone	telephone	None	('over', 'telephone')	None	None	{'video', 'images', 'and', 'over', 'telephone'}	
+line-n.w7_098:12684:	phone	a	open	('keeps', 'a')	('a', 'open')	('open', 'waiting')	{'open', 'keeps', 'connection', 'caller', 'a', 'waiting', 'A', 'who', 'for'}	
+line-n.w8_106:13309:	phone	telephone	are	('over', 'telephone')	('telephone', 'are')	('are', 'eating')	{'transmit', 'overnight', 'documents', 'into', 'are', 'eating', "Federal's", 'over', 'which', 'telephone'}	
+line-n.w9_40:10187:	phone	pornography	and	('of', 'pornography')	('pornography', 'and')	('and', 'of')	{"children's", 'and', 'the', 'horror-story', 'pornography', 'stuff', 'of', 'been'}	
+line-n.w9_16:217:	phone	free	None	('a', 'free')	None	None	{'free', 'finding', 'record', 'a', 'of'}	
+line-n.w8_119:16927:	phone	restaurant	as	('Emporium', 'restaurant')	('restaurant', 'as')	('as', 'part')	{'part', 'its', 'as', 'Emporium', 'of', 'Splash-Seafood', 'drive', 'restaurant', 'Big', 'unprofitable'}	
+line-n.w8_008:13756:	phone	the	running	('on', 'the')	('the', 'running')	('running', 'up')	{'stay', 'an', 'bigger', 'the', 'even', 'you', 'on', 'up', 'If', 'running'}	
+line-n.w8_041:15186:	phone	telephone	None	('over', 'telephone')	None	None	{'computer', 'over', 'home', 'a', 'telephone'}	
+line-n.art7} aphb 05601797:	phone	the	None	('into', 'the')	None	None	{'cut', 'voice', 'into', 'the', 'another'}	
+line-n.w8_119:2964:	product	fall	for	("Lacroix's", 'fall')	('fall', 'for')	('for', 'example')	{'velvets', 'Christian', "Lacroix's", 'and', 'includes', 'example', 'fall', 'for'}	
+line-n.w7_040:13652:	phone	telephone	--	('over', 'telephone')	('telephone', '--')	('--', "that's")	{'--', 'each', "that's", 'over', 'important', 'especially', 'telephone', 'with', 'other', 'now'}	
+line-n.w7_122:2194:	phone	telephone	are	("fund's", 'telephone')	('telephone', 'are')	('are', 'jammed')	{'are', "fund's", 'sometimes', 'jammed', 'a', 'telephone', 'But'}	
+line-n.art7} aphb 45903907:	phone	open	to	('that', 'open')	('open', 'to')	('to', 'the')	{'open', "you'd", 'to', 'still', 'House', 'have', 'the', 'White', 'you', 'that'}	
+line-n.art7} aphb 43602625:	product	the	or	('test', 'the')	('the', 'or')	('or', 'change')	{'test', 'to', 'dial', 'the', 'was', 'or', 'there', 'change'}	
+line-n.w8_034:3995:	phone	several	of	('for', 'several')	('several', 'of')	('of', 'gas')	{'gas', 'in', 'dealing', 'five', 'turbines', 'parts', 'of', 'several', 'for'}	
+line-n.w8_139:696:	product	car	and	('main', 'car')	('car', 'and')	('and', '"orphan"')	{'just', 'Yugo', '"orphan"', 'car', 'and', 'to', 'the', 'main', 'their', 'attention'}	
+line-n.art7} aphb 20801955:	phone	direct	busy	('a', 'direct')	('direct', 'busy')	('busy', 'too')	{'Maternity', 'busy', 'too', 'a', 'direct', 'on', 'Floor'}	
+line-n.w8_028:3156:	product	new	of	('struggling', 'new')	('new', 'of')	('of', 'personal')	{'computers', "IBM's", 'struggling', 'cloning', 'of', 'personal', 'new', 'begin'}	
+line-n.art7} aphb 19600919:	phone	the	busy	('found', 'the')	('the', 'busy')	('busy', 'when')	{'first', 'called', 'busy', 'when', 'found', 'the', 'number', 'telephone', 'you', 'but'}	
+line-n.w8_111:8071:	phone	the	will	('because', 'the')	('the', 'will')	('will', 'be')	{"'Don't", 'because', 'busy', 'call', 'the', 'a', 'be', 'will', 'for', 'now'}	
+line-n.w7_041:4840:	product	American	None	('more', 'American')	None	None	{'more', 'American', 'a', 'introduced', 'has'}	
+line-n.w7_074:3928:	phone	care	that	('hair', 'care')	('care', 'that')	('that', 'Revlon')	{'introduce', 'care', 'to', 'a', 'hair', 'new', 'planned', 'for', 'that', 'Revlon'}	
+line-n.w8_049:15000:	product	two	in	('with', 'two')	('two', 'in')	('in', 'August')	{'models', 'in', 'one', 'August', 'including', 'with', 'two'}	
+line-n.w8_086:3306:	phone	personal-computer	None	('new', 'personal-computer')	None	None	{'sales', 'personal-computer', 'new', 'its', 'of'}	
+line-n.w9_8:1533:	phone	-hour	providing	('year-round', '-hour')	('-hour', 'providing')	('providing', 'a')	{'Plus', 'Scores', 'complex', 'array', 'year-round', '-hour', 'a', 'providing', 'of'}	
+line-n.w8_042:5289:	product	telephone	in	('than', 'telephone')	('telephone', 'in')	('in', 'the')	{'quarter', 'it', 'in', 'than', 'more', 'the', 'boosting', 'telephone', 'added'}	
+line-n.w7_041:11151:	product	fantasy	decline	('as', 'fantasy')	('fantasy', 'decline')	None	{'fantasy', 'as', 'them', 'tech', 'decline', 'high'}	
+line-n.w7_059:9261:	phone	access	in	('serves', 'access')	('access', 'in')	('in', 'exchanges')	{'in', 'exchanges', 'N', 'B', 'serves', 'access', 'Telephone', 'central', 'north'}	
+line-n.w9_6:10969:	phone	telephone	in	('new', 'telephone')	('telephone', 'in')	('in', 'the')	{'quarter', 'in', 'installation', 'the', 'new', 'telephone', 'of'}	
+line-n.art7} aphb 41702230:	product	his	to	('dial', 'his')	('his', 'to')	('to', 'the')	{'booth', 'to', 'control', 'the', 'on', 'printed', 'dial', 'his'}	
+line-n.w7_004:1365:	phone	car	None	('across', 'car')	None	None	{'sales', 'keep', 'across', 'car', 'balanced'}	
+line-n.art7} aphb 26902918:	product	the	None	('of', 'the')	None	None	{'the', 'of', 'other', 'end'}	
+line-n.art7} aphb 37804749:	phone	the	went	('and', 'the')	('the', 'went')	('went', 'dead')	{'went', 'click', 'dead', 'and', 'the', 'a', 'was'}	
+line-n.w9_6:2907:	product	Customer-access	increased	None	('Customer-access', 'increased')	('increased', 'at')	{'Customer-access', 'rate', 'an', 'increased', 'at', 'annualized'}	
+line-n.w7_106:10827:	phone	several	of	('operating', 'several')	('several', 'of')	('of', 'financial')	{'commercial', 'services', 'company', 'bank', 'operating', 'holding', 'including', 'several', 'financial', 'of'}	
+line-n.art7} aphb 02400926:	product	my	to	('opening', 'my')	('my', 'to')	('to', 'Joe')	{'opening', 'button', 'to', 'Joe', 'my', 'a', 'Behar', 'the', 'director', 'punched'}	
+line-n.w7_107:12000:	phone	open	both	('maintain', 'open')	('open', 'both')	('both', 'to')	{'open', 'traders', 'in', 'both', 'maintain', 'Exchange', 'to', '(major', 'firms', 'their'}	
+line-n.w7_087:620:	phone	The	is	None	('The', 'is')	('is', 'assembled')	{'in', 'Brazil', 'assembled', 'is', 'The'}	
+line-n.art7} aphb 30203503:	product	the	safe	('of', 'the')	('the', 'safe')	('safe', 'by')	{'by', 'end', 'an', 'safe', 'the', 'island', 'half', 'of', 'other'}	
+line-n.w9_40:10216:	product	movie	for	('a', 'movie')	('movie', 'for')	('for', 'example')	{'accept', 'only', 'movie', 'allow', 'to', 'example', 'would', 'a', 'system', 'for'}	
+line-n.art7} aphb 24500349:	phone	the	that	('of', 'the')	('the', 'that')	('that', 'Ann')	{'Ann', 'end', "Luise's", 'had', 'parents', 'the', 'of', 'that', 'other'}	
+line-n.art7} aphb 02200986:	phone	the	to	('on', 'the')	('the', 'to')	('to', 'them')	{'Been', 'off', 'and', 'to', 'them', 'the', 'on'}	
+line-n.w8_024:3051:	product	Geo	of	('its', 'Geo')	('Geo', 'of')	('of', 'import')	{'its', 'cars', 'of', 'import', 'approach', 'with', 'Geo', 'same', 'that', 'debuts'}	
+line-n.w7_023:17827:	product	telephone	more	('more', 'telephone')	('telephone', 'more')	('more', 'clerical')	{'copying', 'machines', 'staff', 'more', '"', 'telephone', 'he', 'clerical'}	
+line-n.w8_142:13364:	phone	service	during	('customer', 'service')	('service', 'during')	('during', 'the')	{'customer', 'in', '-hour', 'weekend', 'during', 'the', 'service', 'its', 'on'}	
+line-n.w8_083:14895:	phone	the	was	('again', 'the')	('the', 'was')	('was', 'disconnected')	{'again', 'we', 'phoned', 'when', '"', 'the', 'disconnected', 'was'}	
+line-n.w7_117:10197:	phone	telephone	selling	('toll-free', 'telephone')	('telephone', 'selling')	('selling', 'stocks')	{'toll-free', 'selling', 'swamped', 'short', "game's", 'Monday', 'the', 'telephone', 'on', 'stocks'}	
+line-n.w8_013:14047:	phone	Volkswagen	has	('the', 'Volkswagen')	('Volkswagen', 'has')	('has', 'seen')	{'such', 'jarring', 'the', 'position', 'once-dominant', 'its', 'problems', 'seen', 'Volkswagen', 'has'}	
+line-n.w7_019:14634:	product	same	at	('the', 'same')	('same', 'at')	('at', 'the')	{'communicate', 'to', 'the', 'along', 'time', 'same', 'at'}	
+line-n.w7_017:6376:	phone	six	and	('have', 'six')	('six', 'and')	('and', 'they')	{'they', 'six', 'not', 'are', 'and', 'We', 'said', 'have', 'never', 'Saturday'}	
+line-n.art7} aphb 24900680:	phone	the	None	('on', 'the')	None	None	{'voice', 'her', 'heard', 'the', 'on'}	
+line-n.w7_021:3496:	phone	than	and	('fewer', 'than')	('than', 'and')	('and', 'was')	{'one', 'than', 'several', 'businesses', 'and', 'to', 'fewer', 'was', 'with', 'of'}	
+line-n.w9_13:9355:	phone	access	near	('serves', 'access')	('access', 'near')	('near', 'Minneapolis')	{'Minneapolis', 'Croix', 'serves', 'access', 'Telephone', 'St', 'near'}	
+line-n.w8_098:13314:	phone	camera	a	('mm', 'camera')	('camera', 'a')	('a', 'new')	{'--', 'camera', 'and', 'a', 'new', 'two', 'mm'}	
+line-n.w8_064:14051:	phone	toll-free	it	('a', 'toll-free')	('toll-free', 'it')	('it', 'has')	{'open', 'toll-free', 'it', 'kept', 'of', 'a', 'for', 'has'}	
+line-n.w7_107:7711:	product	local	that	('certain', 'local')	('local', 'that')	('that', 'connect')	{'certain', 'big', 'to', 'connect', 'a', 'local', "companies'", 'for', 'that', 'month'}	
+line-n.w9_40:10241:	phone	movie	as	('into', 'movie')	('movie', 'as')	('as', 'well')	{'into', 'looking', 'as', 'movie', 'record', 'well', 'be', 'will', 'promotions'}	
+line-n.w7_111:6250:	phone	telephone	at	('the', 'telephone')	('telephone', 'at')	('at', 'Rothschild')	{'glass', 'Securities', 'into', 'Corp', 'Wonderland', 'still', 'the', 'telephone', 'at', 'Rothschild'}	
+line-n.w9_31:14204:	product	the	of	('of', 'the')	('the', 'of')	('of', 'mainframes')	{'--', 'rollout', 'said', 'the', 'whose', 'of', 'delay', 'mainframes'}	
+line-n.w9_20:7066:	phone	replacement	will	('a', 'replacement')	('replacement', 'will')	('will', 'be')	{'in', 'replacement', 'manufacturer', 'says', 'the', 'a', 'introduced', 'be', 'will'}	
+line-n.w8_027:13714:	phone	the	None	('on', 'the')	None	None	{'president', 'vice', 'the', 'was', 'on'}	
+line-n.w7_006:6674:	phone	subscriber-	charge	('The', 'subscriber-')	('subscriber-', 'charge')	('charge', 'also')	{'also', 'subscriber-', 'charge', 'the', 'The', 'access', 'called'}	
+line-n.w7_080:1471:	phone	the	None	('on', 'the')	None	None	{'were', 'children', 'if', 'the', 'on'}	
+line-n.w7_124:728:	phone	packaged-food	has	('in', 'packaged-food')	('packaged-food', 'has')	('has', 'done')	{'packaged-food', 'in', 'done', 'concentrated', 'job', 'is', 'a', 'experience', 'poor', 'has'}	
+line-n.w7_083:9304:	phone	None	out	None	None	('out', 'were')	{'were', 'jammed', 'out'}	
+line-n.w8_019:4936:	product	new	of	('a', 'new')	('new', 'of')	('of', 'minicomputers')	{'met', 'of', 'the', 'a', 'new', "haven't", 'minicomputers', 'Sales'}	
+line-n.w9_17:14207:	product	Clarion	;	('its', 'Clarion')	('Clarion', ';')	(';', 'Burnett')	{';', 'Leo', 'Burnett', 'Clarion', 'already', 'is', 'a', 'its', 'for'}	
+line-n.w7_093:5547:	product	Patch	might	('Cabbage', 'Patch')	('Patch', 'might')	('might', 'also')	{'Patch', 'proposed', 'also', 'talking', 'might', 'Cabbage', 'have', 'a', 'hair', 'nylon'}	
+line-n.w7_085:427:	product	Shelf	which	('Top', 'Shelf')	('Shelf', 'which')	('which', 'packages')	{'packages', 'meat', 'Top', 'entrees', 'excited', 'the', 'about', 'which', 'microwavable', 'Shelf'}	
+line-n.w7_112:2163:	product	certain	of	('sell', 'certain')	('certain', 'of')	('of', "Medalist's")	{'"not', 'sell', 'business', 'certain', "Medalist's", 'or', 'board', 'of', 'complementing'}	
+line-n.w7_115:6602:	product	tire	in	('new', 'tire')	('tire', 'in')	('in', 'late')	{'it', 'in', 'late', 'when', 'Mr', 'said', 'introduced', 'new', 'Ross', 'tire'}	
+line-n.w8_081:8566:	phone	telephone	dies	('the', 'telephone')	('telephone', 'dies')	None	{'dies', 'Washington', 'when', 'the', 'from', 'telephone'}	
+line-n.w8_104:2916:	product	a	for	('plus', 'a')	('a', 'for')	('for', 'his')	{'--', 'best', 'ringing', 'seldom', 'sources', 'plus', 'a', 'stop', 'for', 'his'}	
+line-n.w7_050:15645:	phone	telephone	None	('their', 'telephone')	None	None	{'to', 'from', 'telephone', 'their', 'programs'}	
+line-n.w7_033:3398:	product	broad	of	('a', 'broad')	('broad', 'of')	('of', 'computer')	{'broad', 'computer', 'systems:', 'a', 'independent', 'Control', 'of', 'Data', 'suppliers'}	
+line-n.w9_8:3899:	phone	telephone	opened	('the', 'telephone')	('telephone', 'opened')	('opened', 'at')	{'funds', 'market', 'after', 'the', 'opened', 'a', 'm', 'telephone', 'at', ':'}	
+line-n.art7} aphb 37805623:	phone	the	was	('that', 'the')	('the', 'was')	('was', 'engaged')	{'room', "Natasha's", 'engaged', 'the', 'was', 'but', 'that'}	
+line-n.w8_016:14692:	product	food	in	('Cuisine', 'food')	('food', 'in')	('in', 'advertisements')	{'Cuisine', 'in', 'food', "Stouffer's", 'advertisements', 'Lean', 'of'}	
+line-n.w7_107:826:	phone	fund	None	('new', 'fund')	None	None	{'sell', 'to', 'fund', 'the', 'new'}	
+line-n.w7_002:18532:	product	profitable	which	('only', 'profitable')	('profitable', 'which')	('which', 'accounted')	{'accounted', 'profitable', 'only', 'unit', 'almost', 'two-thirds', 'which', 'its', 'defense', 'for'}	
+line-n.w7_102:12660:	product	appliance	in	('major', 'appliance')	('appliance', 'in')	('in', 'which')	{'Maytag', 'in', 'it', 'into', 'wants', 'to', 'the', 'which', 'appliance', 'major'}	
+line-n.w8_002:7541:	product	a	of	('--', 'a')	('a', 'of')	('of', 'exercise')	{'--', 'machines', 'handicapped', 'for', 'exercise', 'about', 'a', 'new', 'products', 'of'}	
+line-n.w8_063:10855:	product	product	that	('outdoor', 'product')	('product', 'that')	('that', 'are')	{'its', 'manufactured', 'are', 'at', 'for', 'product', 'several', 'outdoor', 'plastic', 'that'}	
+line-n.art7} aphb 18601882:	phone	the	without	('over', 'the')	('the', 'without')	('without', 'preamble')	{'preamble', 'Alix', 'voice', 'I', 'without', 'over', '"', 'the', 'but', 'of'}	
+line-n.w9_7:13171:	phone	access	in	('of', 'access')	('access', 'in')	('in', 'service')	{'in', 'also', 'and', 'said', 'the', 'service', 'access', 'number', 'of'}	
+line-n.w9_32:1867:	phone	Investors	and	('&', 'Investors')	('Investors', 'and')	('and', 'the')	{'Traders', 'Investors', 'growing', 'and', 'the', 'being', '&', 'of', 'attention'}	
+line-n.w9_29:3437:	product	latest	of	('the', 'latest')	('latest', 'of')	('of', 'imprintable')	{'clothing', 'help', 'appreciate', 'and', 'of', 'imprintable', 'graphic', 'the', 'latest', 'retailers'}	
+line-n.w7_019:18445:	product	mainframe	None	('Sierra', 'mainframe')	None	None	{'mainframe', 'in', "IBM's", 'Sierra', 'enhancements'}	
+line-n.art7} aphb 45700442:	phone	the	"	('off', 'the')	('the', '"')	('"', 'he')	{'Get', 'off', 'airport', '"', 'said', 'the', 'he'}	
+line-n.w8_067:14552:	phone	Audi	since	('upscale', 'Audi')	('Audi', 'since')	('since', 'the')	{'dropped', 'Audi', 'began', 'and', 'upscale', 'have', 'since', 'the', 'its', 'year'}	
+line-n.w8_053:16416:	phone	Soviet	of	('extensive', 'Soviet')	('Soviet', 'of')	('of', 'fully')	{'cameras', 'for', 'of', 'extensive', 'fully', 'the', 'unautomatic', 'Soviet', 'do'}	
+line-n.w9_12:680:	phone	automobile	with	('their', 'automobile')	('automobile', 'with')	('with', 'massive')	{'massive', 'placed', 'usually', 'budgets', 'supported', 'have', 'with', 'automobile', 'their', 'advertising'}	
+line-n.w9_8:1503:	phone	pornography	and	('high-cost', 'pornography')	('pornography', 'and')	('and', 'services')	{'services', 'For', 'tempt', 'high-cost', 'and', 'children', 'while', 'a', 'pornography', 'that'}	
+line-n.w7_066:3322:	phone	direct	to	('a', 'direct')	('direct', 'to')	('to', 'the')	{'costly', 'Marcos', 'when', 'Mr', 'to', 'palace', 'the', 'a', 'direct', 'however'}	
+line-n.w8_100:4429:	phone	Amiga	"is	('the', 'Amiga')	('Amiga', '"is')	('"is', 'being')	{'Amiga', 'and', 'while', '"is', 'established', 'the', 'being', 'exceeded', 'expectations', 'solidly'}	
+line-n.w7_104:8687:	product	existing	of	('develop', 'existing')	('existing', 'of')	('of', 'the')	{'founded', 'company', 'business', 'of', 'existing', 'the', 'but', 'will', 'develop', 'by'}	
+line-n.art7} aphb 54101892:	phone	open	"	('an', 'open')	('open', '"')	('"', '"')	{'open', 'this', 'I', 'an', '"', 'is', "it's", 'know', 'Jesus'}	
+line-n.w8_038:1345:	product	popular	of	('a', 'popular')	('popular', 'of')	('of', 'fruit')	{'drinks', 'popular', 'fruit', 'contents', 'the', 'a', 'of'}	
+line-n.w7_126:14239:	product	top-of-the-	portable	('its', 'top-of-the-')	('top-of-the-', 'portable')	('portable', 'and')	{'top-of-the-', 'computers', 'versions', 'desktop', 'and', 'portable', 'its', 'speedier', 'of'}	
+line-n.w9_30:3935:	product	software	for	('buy', 'software')	('software', 'for')	('for', 'a')	{'million', 'newly', 'formed', 'company', 'to', 'a', 'buy', 'financing', 'software', 'for'}	
+line-n.w9_18:11863:	product	new	of	('a', 'new')	('new', 'of')	('of', 'prerecorded')	{'prerecorded', 'for', 'audio/visual', 'products', 'a', 'compact-disk', 'new', 'of', 'suppliers'}	
+line-n.w8_003:16519:	product	revamped	of	('a', 'revamped')	('revamped', 'of')	('of', 'under-the-cabinet')	{'revamped', 'a', 'Recently', 'kitchen', 'under-the-cabinet', 'appliances', 'of', 'Spacemaker'}	
+line-n.art7} aphb 29604729:	product	transatlantic	died	('The', 'transatlantic')	('transatlantic', 'died')	None	{'transatlantic', 'The', 'died'}	
+line-n.w9_38:10638:	phone	its	of	('on', 'its')	('its', 'of')	('of', 'household')	{'businesses', 'concentrate', 'household', 'goods', 'to', 'and', 'cosmetics', 'its', 'on', 'of'}	
+line-n.w7_046:6144:	product	both	None	('retain', 'both')	None	None	{'intends', 'both', 'to', 'retain', 'Data'}	
+line-n.w8_098:14382:	product	food	including	('individual', 'food')	('food', 'including')	('including', 'Swift')	{'meats', 'Beatrice', 'food', 'individual', 'and', 'Hunt', 'Swift', 'including', 'But', 'has'}	
+line-n.w8_074:4317:	phone	MCI's	traffic	('From', "MCI's")	("MCI's", 'traffic')	('traffic', 'is')	{'From', 'switched', "MCI's", 'to', 'is', 'a', 'traffic'}	
+line-n.w7_011:18280:	phone	telephone	will	('million', 'telephone')	('telephone', 'will')	('will', 'be')	{'affected', 'million', 'customers', 'be', 'telephone', 'with', 'will'}	
+line-n.w8_053:3883:	phone	telephone	None	('over', 'telephone')	None	None	{'data', 'and', 'communications', 'over', 'telephone'}	
+line-n.w8_040:16402:	phone	new	to	('about', 'new')	('new', 'to')	('to', 'current')	{'current', 'business', 'to', 'about', 'Bell', 'customers', 'new', 'sold', 'by', 'has'}	
+line-n.w7_065:13727:	product	apparel	has	('own', 'apparel')	('apparel', 'has')	('has', 'been')	{'boost', 'own', 'been', 'and', 'trying', 'to', 'subcontracting', 'its', 'apparel', 'has'}	
+line-n.w8_007:14740:	phone	telephone	since	('new', 'telephone')	('telephone', 'since')	('since', 'the')	{'Depression', 'volume', 'the', 'since', 'Great', 'new', 'telephone', 'growth', 'for'}	
+line-n.w8_011:260:	phone	telephone	increased	('new', 'telephone')	('telephone', 'increased')	('increased', 'by')	{'call', 'business', 'and', 'segment', 'the', 'increased', '%', 'new', 'telephone', 'by'}	
+line-n.w7_003:8955:	product	truck	None	('heavy', 'truck')	None	None	{'as', 'truck', 'heavy', 'products', 'its'}	
+line-n.w8_011:298:	phone	telephone	None	('new', 'telephone')	None	None	{'use', 'and', 'long-distance', 'new', 'telephone'}	
+line-n.w7_122:11595:	phone	another	")	('on', 'another')	('another', '")')	None	{'are', '")', 'pets', 'the', 'another', 'on'}	
+line-n.w9_1:4358:	product	ChemPlus	several	('its', 'ChemPlus')	('ChemPlus', 'several')	('several', 'packages')	{'introduce', 'packages', 'million', 'several', 'ChemPlus', 'to', 'its', 'at', 'aimed', 'different'}	
+line-n.w7_108:11591:	product	tire	None	('high-performance', 'tire')	None	None	{'keep', 'high-performance', "company's", 'the', 'tire'}	
+line-n.w8_065:17112:	product	Wheelwriter	of	('its', 'Wheelwriter')	('Wheelwriter', 'of')	('of', 'typewriters')	{'revamped', 'typewriters', 'it', 'addition', 'Wheelwriter', 'with', 'said', 'the', 'its', 'of'}	
+line-n.w8_070:8114:	phone	smut	if	('these', 'smut')	('smut', 'if')	('if', 'they')	{'these', 'they', 'call', 'able', 'to', 'if', 'smut', 'want'}	
+line-n.w8_011:13061:	phone	telephone	continue	('New', 'telephone')	('telephone', 'continue')	('continue', 'to')	{'New', 'grow', 'to', 'a', 'continue', 'telephone', 'at'}	
+line-n.w7_100:15579:	product	a	of	('launched', 'a')	('a', 'of')	('of', 'cosmetics')	{'also', "She's", 'cosmetics', 'a', 'launched', 'of'}	
+line-n.w7_071:6321:	product	consumer	such	('profitable', 'consumer')	('consumer', 'such')	('such', 'as')	{'such', 'bulbs', 'profitable', 'as', 'more', 'and', 'light', 'consumer', 'benefits', 'that'}	
+line-n.w8_110:14049:	phone	R&D	than	('their', 'R&D')	('R&D', 'than')	('than', 'Lotus')	{'than', 'bang', 'more', '"', 'from', 'R&D', 'their', 'Lotus'}	
+line-n.w7_108:4296:	phone	access	in	('serves', 'access')	('access', 'in')	('in', 'South-Central')	{'South-Central', 'in', 'Michigan', 'company', 'and', 'serves', 'access', 'telephone', 'T-COM', 'that'}	
+line-n.w7_057:1203:	phone	direct	to	('a', 'direct')	('direct', 'to')	('to', 'President')	{'bypassing', 'President', 'to', 'careful', 'a', 'direct', 'secure', 'Reagan', 'White'}	
