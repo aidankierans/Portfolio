@@ -1,5 +1,5 @@
 # Portfolio
-A selection of my classwork and extracurricular projects.
+A selection of my undergraduate classwork and extracurricular projects.
 
 ## Project Descriptions
 ### Sentiment Analysis
